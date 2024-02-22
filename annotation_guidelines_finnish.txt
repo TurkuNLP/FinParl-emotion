@@ -1,0 +1,66 @@
+Ohjeistus tunneluokittelua varten
+
+Yleisohjeet
+Lue nämä ohjeet huolella ennen kuin aloitat. Annotoitavana on yksittäisiä virkkeitä eduskunnan täysistunnoista. Joka virkkeelle annetaan YKSI tunneluokka sen mukaan, millainen tunne virkkeestä välittyy. Tunneluokka merkitään sitä vastaavalla numerolla. Mikäli virkkeestä välittyy mielestäsi useampi tunne, valitse se luokka, jota vastaava tunne on vahvin. 
+
+Tunneluokat      
+0 = neutraali
+Neutraaliin luokkaan kuuluvat lauseet, jotka eivät sisällä mitään selkeää tunnetta, kuten toteamukset, muodollisuudet tai muuten neutraalit ilmaisut. Myös tyhjät tai muuten annotointikelvottomat solut koodataan neutraaleiksi - esim. “[puhemies koputtaa]”.
+
+Esimerkiksi:
+“Arvoisa puhemies!”
+“Minä olen tänään jättänyt keskuskansliaan yhden ponnen tarkistukseen ja yhden uuden ponnen.”
+
+1 = ilo, onnistuminen
+Tällaisia ovat mielihyvää tai onnellisuutta ilmaisevat lauseet, joissa iloitaan vaikkapa jostakin saavutuksesta. Puhuja on tyytyväinen siihen, että jotakin on saatu aikaan tai jossakin on onnistuttu. 
+
+Esimerkiksi:
+“Vihdoinkin täällä — jess! — eläinten tunnistamiseen ja rekisteröintiin liittyvä laki.”
+“Mielestäni on hienoa, että kansanedustajat ovat oppineet käyttämään kirjastoa hyvin monipuolisesti ja samoin meidän virkamiehet.”
+
+2 = toiveikkuus, optimistisuus, luottamus 
+Siinä missä iloa ja onnistumista (1) tunnetaan johonkin toteutuneeseen asiaan tai saavutukseen liittyen, toiveikkuus, optimistisuus ja luottamus suuntautuvat erityisesti tulevaisuuteen: puhuja suhtautuu positiivisesti ja luottavaisesti johonkin tulevaan asiaan, jonka toteutumista hän toivoo.  
+
+Esimerkiksi:
+“Rekisteröinnistä ja tunnistusmerkinnästä seuraa paljon hyvää.”
+“Toivon, että Eduskunnan kirjasto olisi omalta osaltaan myös esimerkkinä siitä, miten selkokielen käyttöä voitaisiin lisätä.”
+
+3 = rakkaus, kehuminen
+Kehut ja kunnioitus, joita osoitetaan toisia ihmisiä ja muita entiteettejä kohtaan. Tämä voi sekoittua helposti iloon ja onnistumiseen (1), mutta rakkaus ja kehuminen muistuttaa enemmän hehkuttamista ja tuen ilmaisemista.
+
+Esimerkiksi:
+“Molemmat ovat kiitoksia eduskunnan hienosti toimivalle kirjastolle ja samalla myöskin kehotuksia ja kannustusta jatkaa kehittämistyötä.”
+“Elikkä kiitos edustaja Laiholle, joka toimi silloin valiokunnan puheenjohtajana: tämä mietintö on erinomainen.”
+
+4 = yllättyminen (positiivinen)
+Puhuja yllättyy iloisesti jostakin asiasta. 
+
+Esimerkiksi:
+"Lakialoitteen käsittely onkin sujunut paljon nopeammin kuin arvelin."
+
+5 = suru, pettymys kategorian 1 vastakohta
+Onnistumisen vastakohta: puhuja ilmaisee murhetta, sillä jokin on mennyt huonosti tai odotukset eivät ole täyttyneet. 
+
+Esimerkiksi:
+“Tämä kehitystyö on ollut vuosikausia erittäin heikkoa EU:n tasolla.”
+
+6 = pelko, huoli, epäluulo kategorian 2 vastakohta
+Tämä on ennen kaikkea tulevaisuuteen suuntautuvaa epäilyä ja huolestuneisuuden osoittamista. Puhuja tuo esiin ongelmia tai on pessimistinen jonkin asian suhteen.
+
+Esimerkiksi:
+“Saavutettavat hyödyt jäisivät todennäköisesti olemattomiksi suhteessa kustannuksiin.”
+“Mikäli henkilö syystä tai toisesta, esimerkiksi korruptioepäilyn takia, haluaa piilottaa omistuksiaan, hän tuskin välittää tästä sakkoverosta.”
+
+7 = viha, inho, piikittely, ivallisuus kategorian 3 vastakohta(?)
+Jonkin henkilön tai asian syyttelyä tai kritisointia. Esiintyy usein naljailuna, sarkasmina ja ironiana. Tässä kannattaa kiinnittää erityistä huomiota kontekstiin, sillä nämä voivat olla usein välihuutoja.
+
+Esimerkiksi:
+“Tältä osin kyse on siis pelkästä mediapelistä.”
+“Olemme useaan otteeseen saaneet kuulla, kuinka edustaja Kankaanniemellä on ennakkoperintäponnesta oikein kirjallinen kuittaus hallituskumppaneilta.”
+
+8 = hämmästys (negatiivinen)
+Jotakin asiaa ihmetellään ja kummastellaan kielteiseen/kritisoivaan sävyyn. 
+
+Esimerkiksi:
+“Kehysriihen alla Turusen ja perussuomalaisten johdon kanta muuttuikin päinvastaiseksi.”
+“Vielä oudompia käänteitä ja piirteitä tämä asia sai tänään, kun valiokunnan puheenjohtaja vielä tässä käsittelyvaiheessa jättää uusia lausumaesityksiä, joilla halutaan isoja muutoksia lainsäädäntöön.”
