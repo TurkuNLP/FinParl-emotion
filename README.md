@@ -1,6 +1,6 @@
 ### Code used for emotion analysis with Finnish parliamentary speeches.
 
-We use GPT-4 to annotate sentences from the Finnish parliament and compare them against the human annotated gold standard. This data is the used to train a BERT model for emotion analysis. <br>
+We use GPT-4 to annotate sentences from the Finnish parliament and compare them against the human annotated gold standard. This data is the used to train a BERT model for emotion analysis. We compare the model trained on the GPT-4 annotated against models trained on machine translated datasets and find that GPT-4 annotations give better results. <br>
 
 The emotions we use are:
 - 0 = neutral
