@@ -1,0 +1,579 @@
+speech_id	sentence_id	text	label
+http://ldf.fi/semparl/speeches/s2017_1_074_242	validation_1	Perustuslakivaliokunta totesi, että tässä ei ole mitään säätämisjärjestykseen liittyviä ongelmia.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_120	validation_2	Tämä hallituksen esitys tarkoittaa sitä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_178	validation_3	KD ei ole unohtanut terapiatakuuta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_154	validation_4	Tässähän puututtiin juurikin siihen, että eihän varoja saa väärinkäyttää, korruptiota pitää torjua.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_113	validation_5	Se, mitä me sanomme, mitä me päätämme, mitä me teemme arktisella alueella, vaikuttaa koko EU:n tulevaisuuteen, ja se on vipuna hyvä keskustelukeino ja avaus Brysselissä ja muissa EU:n pääkaupungeissa.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_019	validation_6	Meillä Suomessa on puhuttu vuosien ajan siitä, miten väestö vanhenee ja miten väestöllinen huoltosuhde heikkenee.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_154	validation_7	”Perussuomalaisten mielestä rahoituskehykseen liittyvään lainsäädäntöehdotukseen talousarvion suojaamisesta tilanteissa, joissa oikeusvaltioperiaatteen noudattamiseen jäsenvaltioissa kohdistuu yleisiä puutteita, on suhtauduttava varovaisen kriittisesti.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_138	validation_8	Eli täällä edustaja Turunen esitti hyvät ponnet, ja kannatan niitä lämpimästi tähän mukaan eli muutosta tähän kakkoskohtaan eli toteutumistavan osalta mutta sitten myös sitä, että me otimme mukaan tähän lainsäädäntöön ja tutkimme tämän listaamattomien yritysten osuuden.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_009	validation_9	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_10	Näin varmistetaan, että EU:ssa Suomea aina edustaa eduskunnalle vastuunalainen hallitus.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_024	validation_11	Viiden miljoonan ihmisen Suomi ei ilman EU:ta pärjää yhtä hyvin globaaleilla markkinoilla pandemian vastaisessa varustelussa.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_152	validation_12	Tämä olisi valtava muutos, joka veisi yrityksemme pitkään ja hankalaan vero-oikeudellisten tulkintojen epävarmuuden aikaan.	5
+http://ldf.fi/semparl/speeches/s2020_1_045_001	validation_13	Olkaa hyvä, valiokunnan puheenjohtaja.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_126	validation_14	Se on yhtä lailla hämärän peitossa, mikä on Marinin hallituksen kanta siihen.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_15	Maailman talousfoorumi totesi, että nykynuorista 65 prosenttia työllistyy tehtäviin, joita ei vielä ole olemassakaan.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_033	validation_16	Edustaja Mäkelä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_098	validation_17	— Se pitää muuten paikkansa, että Timo Soini taitaa olla se henkilö, joka on ensimmäisenä käyttänyt tätä nimitystä siinä vaiheessa, kun perussuomalaiset vielä vastustivat tätä tismalleen samaa esitystä, jota nyt käsittelemme.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_013	validation_18	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_138	validation_19	Se on ehkä probleemallisempaa, niin kuin tuossa aikaisemminkin totesin, että siellä on vahva yksityisyydensuoja.	6
+http://ldf.fi/semparl/speeches/s2022_1_007_151	validation_20	Tiedusteluvalvontavaliokunta on aiemmin kiinnittänyt huomiota siihen, ettei tiedusteluvalvontavaltuutetulla ole sijaista, joka valtuutetun estyneenä ollessa olisi oikeutettu käyttämään laissa valtuutetulle säädettyjä toimivaltuuksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_156	validation_21	Vielä sanoisin tästä selonteosta loppuun sen, että ainahan meillä selonteoissa yleensä haetaan myös riskejä ja tiekarttoja vaaran varalle, mutta en minä ainakaan oikein löydä tuolta mitään.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_22	EU on jäsenvaltioilleen merkittävä päätöksenteon taso mutta myös ja ennen kaikkea vakauden, vaurauden ja turvallisuuden tuottaja.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_23	Kansainvälisissä ilmastoneuvotteluissa EU on jo kauan ollut kantava voima.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_026	validation_24	Kun puhutaan tulevaisuudesta, niin elinikäisen oppimisen polku, niin kuin täälläkin monessa puheenvuorossa on nostettu esiin, on yksi tärkeimmistä elementeistä, niin että kaikilla on yhdenvertaiset mahdollisuudet edetä sekä opinpolulla että työelämässä.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_006	validation_25	Pieni- ja keskituloisten työn verotusta on yhä kevennettävä myös seuraavalla kaudella.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_065	validation_26	Mielenkiintoinen kommentti oli — jos te olette lukeneet Juhana Vartiaisen blogia — kun hän vertaili Ruotsia ja Suomea: Ruotsissa veroviranomaiset sanoivat, että he pystyvät saamaan tietoa, se vain vähän hankaloittaa.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_015	validation_27	Eli millä tavalla me huomioimme esimerkiksi nuorten oppimisen ja varsinkin oppimisen taitojen kehittämisen?	0
+http://ldf.fi/semparl/speeches/s2018_1_169_024	validation_28	Toki nämä ilmiöt vievät työmarkkinoilta perinteisiä työtehtäviä, mullistavat työmarkkinoita, mutta luovat myöskin paljon uutta työtä nimenomaan teknologian avulla.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_29	Tämä hyöty ylittää moninkertaisesti nettomaksuosuutemme EU:n budjetista.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_058	validation_30	Elikkä on syytä kysyä, mitä tässä oikeastaan halutaan tehdä, jos ja kun tämä kokonaisuus kuitenkin halutaan viedä läpi, kun itse asiassa olisi päästy paljon pienemmillä muutoksilla.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_212	validation_31	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_241	validation_32	Pidän myönteisenä sitä, että näitä uudistuksia nyt Suomessa tehdään.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_158	validation_33	Käytännössä Kreikka kaatui ja aiheutti sen, että perustettiin ensin lainajärjestelmä, sitten ERVV ja sitten EVM, joka tänä iltana täällä olevalla erillisasialla ollaan muuttamassa yhteisvastuurahastoksi, mikä on kyllä Suomen etujen vastaista erittäin vahvasti — käsittämätön esitys.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_182	validation_34	Tässä on tarkoituksena siis tätä työttömyysetuuden suojaosaa korottaa pysyvästi 500 euroon kuukauden sovittelujakson aikana ja 465 euroon neljän peräkkäisen kalenteriviikon sovittelujakson aikana.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_026	validation_35	Mutta konservatiiviset voimat nousevat myös Euroopassa valtaan ja puheenparsi on monella tapaa koventunut.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_109	validation_36	Jos mietitään Suomessa lämpötiloja, niin meillähän on ankarat talvet.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_180	validation_37	No, tämä kristillisdemokraattien ehdotus tarkoittaisi vuositasolla keskimäärin 120 euron lisätuloa jokaista lasta kohti, ja se lisäisi lapsilisämenoja 115 miljoonalla eurolla.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_38	Kehittyvä yhteistyö myös naapuruston kanssa on välttämätöntä, sillä Euroopan ei pidä rakentaa muuria tai eristäytyä ympäröivästä maailmasta.	2
+http://ldf.fi/semparl/speeches/s2022_1_007_171	validation_39	Toki ehkä jotain sotilastiedustelua olisi voitu tehdä ilman sitä perustuslain muutostakin, mutta nimenomaan siviilitiedustelun puoli vaati silloin sen perustuslain muutoksen, ja jotta se saatiin aikaan, tämmöinen ilmapiiri oli tarpeen, ja oli hyvä, että se oli siinä valmistelussa, ja toivon, että se jatkuu jatkossakin näiden lakien ja valtuuksien valvonnassa.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_030	validation_40	Toivon, että tämänkin kokemuksen pohjalta nyt mietimme ja ylipäätänsä EU-maat yhdessä miettivät sitä, onko tässä opittavaa myöskin sen kannalta, minkälainen toimivalta tämän tyyppisissä tilanteissa EU:lle oikeasti tarvitaan ja minkälainen mahdollinen nopea päätöksentekomahdollisuus myöskin tarvitaan.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_141	validation_41	Onko nyt käynytkin näin ikävästi, että tässä kohtaa 1. lausuma on ristiriidassa sen kanssa, missä nyt halutaan listautumattomat pois, kun se on edelleen esityksessä mukana, niin että niitä ei ole suljettu pois?	5
+http://ldf.fi/semparl/speeches/s2021_1_125_150	validation_42	Aivan järjetöntä, kerta kaikkiaan tuomittavaa.	7
+http://ldf.fi/semparl/speeches/s2020_1_092_116	validation_43	Tietysti näin voidaan itse poliisihallinnon sisällä tehdä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_057	validation_44	Eikö tämä kerro myös jotakin, jos hallituksen sisällä joka ponnesta pitää kuitata poliittinen kuittaus, [Välihuutoja] ainakin yhdestä, eli kertooko se jotakin hallituksen sisäisestä ja keskinäisestä luottamuksesta?	6
+http://ldf.fi/semparl/speeches/s2021_1_125_034	validation_45	Miksi hallitus toimii vastoin omia puheitaan?	0
+http://ldf.fi/semparl/speeches/s2017_1_054_140	validation_46	Säilyttäjällä on tällöin tieto asiakkaan verotuksellisesta asuinvaltiosta, ja juuri siihen lausumaehdotuksen mukainen 50 prosentin ennakonpidätys perustuu.	0
+http://ldf.fi/semparl/speeches/s2020_1_146_081	validation_47	Esityksen pääasiallinen vaikutus on ehkä pikemminkin osoittaa ja kannustaa oikeaan suuntaan.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_146	validation_48	Tässä on nyt tulossa tämän U 61:n myötä toinen elvytyspaketti.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_114	validation_49	Nykyisin voimassa olevan lain mukaan poliisilaitoksen päällikön nimittää sisäministeriö kuultuaan poliisiylijohtajaa.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_114	validation_50	Operatiivisen poliisitoiminnan ohjaavana ja valvovana tahona sekä poliisilaitoksen esimiesvirastona toimivalla Poliisihallituksella on sisäministeriötä paremmat valmiudet arvioida virkamiesvastuun toteutumista myös laillisuusvalvonnan näkökulmasta.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_010	validation_51	On hyvä tietysti, että myös tämä lainsäädäntö on nyt päästy testaamaan käytännössä ja näemme ne kehittämistarpeet tästä eteenpäin.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_016	validation_52	Kuten edustaja Niikko jo toi esiin, ulkoasiainvaliokunta painottaa siis sitä, että Afganistanin monisyistä tilannetta on syytä käsitellä perusteellisesti myöhemmin erikseen.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_53	Kuten valiokunnan kuulemat asiantuntijat varsin yksituumaisesti katsovat, EU on merkittävä globaali toimija, joka pystyy vaikuttamaan maailman kehitykseen ja samalla edistämään laaja-alaista turvallisuuttamme.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_54	On vahvistettava strategista toimintakykyä ja kriisinsietokykyä, mihin liittyy keskeisesti strategisen autonomian tavoite.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_224	validation_55	Edustaja Ovaska on retorisesti kyllä hyvin taitava henkilö, mutta kuitenkin tässä kohtaa sanoisin, että nyt ei ihan osunut maaliin, niin sanotusti.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_184	validation_56	Suomessa on polttoaineen hinta niin korkealla, että sain tänään eräältä eteläpohjalaiselta naiselta tästä viestiä, ja tekisi mieli se lukea tässä, mutta se ei ole enää oikein painokelpoista tekstiä.	5
+http://ldf.fi/semparl/speeches/s2019_1_027_097	validation_57	On arvokasta saada valmiiksi arvioitua tietoa kansanedustajan työhön.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_155	validation_58	Ja kyse on sen saman poikkeuksen tulkinnasta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_145	validation_59	Ja tämä on muodostunut ongelmaksi.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_144	validation_60	Nyt meillä on ongelmia Puolan kanssa.	6
+http://ldf.fi/semparl/speeches/s2021_1_091_019	validation_61	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2020_1_146_087	validation_62	Olisin suonut hallitukselle enemmän kunnianhimoa ja myöskin valiokunnalle enemmän kunnianhimoa sen suhteen, että tavoitteet olisi asetettu korkeammalle.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_146	validation_63	Mitään avointa piikkiä ei ole, jotta te voisitte täällä sanoa, että meidän pitää antaa miljardi sinne ja tänne.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_226	validation_64	Edustaja Pekonen, olkaa hyvä ja esitelkää asia.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_044	validation_65	Teknologian etiikasta ja teknologian yhteiskunnallisten vaikutusten arvioinnista on tehtävä suomalaisen yhteiskunnan kärkiosaamista.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_109	validation_66	Se ei pidä paikkaansa.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_145	validation_67	Minulla on ollut valmiutta myös katsoa lopputulos EU-tuomioistuimesta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_68	Siinä pohjimmainen syy, miksi EU laajeni Itä-Euroopan maihin, jotka eivät olleet ollenkaan valmiita jäseniksi, ja nyt sitä laskua maksetaan tämän geopoliittisesti motivoituneen laajentumisen takia.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_011	validation_69	Työelämään tarvitaan myös nykyistä laajempi joukko ihmisiä. Osatyökykyisille pitää löytää malleja mielekkääseen työhön.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_030	validation_70	Rouva puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_124_218	validation_71	Tosiaan käsittelyssä on laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa sekä vankeuslain ja eräiden muiden seuraamusten täytäntöönpanosta annettujen lakien muuttamisesta.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_040	validation_72	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_107	validation_73	Minun mielestäni tämä on hyvä juttu, mitä me olemme nyt tehneet: me olemme tästä arvopaperikeskusasetuksesta ottaneet minimin ja sitten avoimuuden ja rikoksientorjunnan kannalta me teemme maksimin kansallista lainsäädäntöä.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_74	Tässä ei pidä sotkea kahta asiaa keskenään.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_044	validation_75	Kuten tuossa debattipuheenvuorossani jo sanoin, teknologian kehittyminen on erittäin hyvä asia, koska se luo uutta työtä, mutta teknologian kehittymiseen ja kehittämiseen liittyy myös tarve käydä yhteiskunnassa laaja-alaista eettistä keskustelua teknologian hyödyistä ja haitoista.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_026	validation_76	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2020_1_146_089	validation_77	Siksi omasta mielestäni tämä on hyvä liikkeellelähtö nimenomaan raskaan liikenteen päästöjen vähentämiseen.	2
+http://ldf.fi/semparl/speeches/s2020_1_021_037	validation_78	Koulutetuimmilla ja varakkaimmilla on paremmat lähtökohdat käydä kampanjaa ja parhaat mahdollisuudet tulla valituiksi.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_094	validation_79	Edustaja Meri.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_224	validation_80	Kiitoksia, arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_124_225	validation_81	No tottahan se on, me säädämme täällä lakeja, mutta me olemme täällä myös sitä varten, että me huomaamme ne porsaanreiät.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_111	validation_82	Tässä keskustelussa on kyllä hämmentänyt se, että eduskunta itse opposition toimesta haluaa jollain tavalla painaa näiden ponsien merkitystä pienemmäksi.	8
+http://ldf.fi/semparl/speeches/s2021_1_091_034	validation_83	Se selvästi osoittaa sen, että ne joukot, jotka lähtevät suorittamaan tärkeää tehtävää raakalaismaisen, hirveän Talebanin valtaannousun jälkeen...	5
+http://ldf.fi/semparl/speeches/s2018_1_169_046	validation_84	Ensinnäkin tämä digitalisaatioasia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_053	validation_85	Nämä asiat on linjattu jo aikoja sitten, mutta miten näette, ministeri, voiko näille ihmisien elämää koskettaville asioille kuitenkin jotain vielä tehdä, että nämäkin tärkeät asiat saataisiin kuntoon?	2
+http://ldf.fi/semparl/speeches/s2017_1_054_153	validation_86	Mielestäni keskustelu on kuitenkin tänään ollut yleisesti ottaen huomattavasti asiapitoisempaa kuin vielä viime viikolla, joten kenties meidän kansanedustajien joukossa on oppimiskykyisiäkin yksilöitä.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_87	Alustatalous tarjoaa rajattomia uusia mahdollisuuksia, jotka synnyttävät uusia palveluita, työpaikkoja ja elinvoimaa.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_150	validation_88	Aivan karmeaa Suomelle,	5
+http://ldf.fi/semparl/speeches/s2020_1_045_017	validation_89	Nyt sitten aivan erityisesti peräänkuulutan maan hallitukselta sitä, että kun tämä pandemiatilanne ei millään tavalla ole ravintolayrittäjien eikä alan työntekijöiden vika, niin maan hallituksen täytyy esittää kiireesti ne eduskunnan edellyttämät toimenpiteet, joilla alan yritysten toiminnan jatkuvuus turvataan tämän kriisin yli.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_90	Tällä voi olla pitkäaikainen vaikutus digitalisaatiokehitykseen ja toimintaympäristöön.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_155	validation_91	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_160	validation_92	Sitten joudumme huomaamaan senkin karmean totuuden, että kun on tämä sosiaalinen ulottuvuus, mikä on tuohon selontekoon sisälle kirjoitettu, niin suomalainen perheenäiti tai ‑isä, joka kasvattaa lapsiaan, taikka eläkeläinen, joka myöskin maksaa hankkimistaan tuloista, eläketuloista, veroa, osallistuu italialaisen perheen veronmaksuun tai sähkölaskun maksuun tai polttoainehankintaan.	5
+http://ldf.fi/semparl/speeches/s2022_1_007_165	validation_93	Tämä viikko näyttää olevan eduskunnan osalta — täysistuntosalin osalta ainakin — yhdellä otsakkeella varustettu, eli tiedustelutoiminnasta täällä nyt puhutaan päivästä toiseen erilaisten selontekojen ja muiden yhteydessä.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_246	validation_94	Se on välttämätöntä, että tämä alusta loppuun toimii.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_95	Tämä kertoo siitä ajatuksesta ja asenteesta, että voidaan muuttua.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_126	validation_96	No, nyt sitten kun olemme esimerkiksi tätä keskustelua kuunnelleet tästä vakaus‑ ja kasvusopimuksesta, niin valtiovarainministeri, keskustan Annika Saarikko on todennut, että keskustalla on halu palata näihin vakaus‑ ja kasvusopimuksen alijäämäsäännöstöihin, mutta ministeri Tuppurainen, joka on täällä paikalla, on todennut, että ei tällaista asiaa ole Marinin hallituksessa päätetty. Tämä olisi niitä kysymyksiä, mitkä pitäisi nyt tietää, kun pääministeri Marin näitä epävirallisiakin keskusteluja näiden asioiden ympärillä käy.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_001	validation_97	Ainoaan käsittelyyn esitellään päiväjärjestyksen 2. asia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_142	validation_98	Me olemme osa isompaa kokonaisuutta aidosti: sekä lainsäädäntöjärjestelmien kautta, yhteismarkkinoiden kautta, kauppapolitiikan kautta, meillä jopa maatalouspolitiikka ja tämmöiset osa-alueet ovat yhteisiä, [Toimi Kankaanniemi: Entä Ruotsi ja kruunu?] ja meillä on isot yhteiset asiat.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_010	validation_99	Oli ilo huomata ulkoasiainvaliokunnassa, että olemme yksimielisesti tämän tärkeän mietinnön ja operaation kannalla.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_086	validation_100	Edustaja Heinonen.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_010	validation_101	Näin olen tämän valmiuslain käyttöönoton ymmärtänyt, ja aina se niin sanotusti normaali lainsäädäntö on ensisijainen.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_071	validation_102	Siinä Euroopan unionin rooli on keskeinen ja se suomalainen, oikeastaan ainoa vaihtoehto todella vaikuttaa erityisesti kauppapolitiikan osalta, mistä se leipä kuitenkin tulee suomalaisille yrityksille ja suomalaisille kuluttajille.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_162	validation_103	— Ja nyt, arvoisa puhemies, minun täytyy vissiin siirtyä tuonne pönttöön.	0
+http://ldf.fi/semparl/speeches/s2020_1_021_036	validation_104	Samoin se kannattaisi analysoida — kun näytti olevan aika iso määrä, jolta jouduttiin pyytämään tarkennusta tai lisäselvitystä — mistä rahoituksen alakohdista niitä erityisesti jouduttiin pyytämään.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_141	validation_105	[Mauri Pekkarinen: Asetusta!]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_069	validation_106	Tulee tarkastella sitä, miten velkakestävyyttä parannetaan, ja sitä, miten kehikko olisi aiempaa paremmin suhdannepolitiikkaan sijoittunut.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_038	validation_107	Pääesikunta johtaa tätä suojausjoukkoa, tekee turvallisuusarviot, tekee ratkaisut, kaiken kaikkiaan tietysti ajankohtaisen tiedon pohjalta.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_178	validation_108	Kroonistuvaan kestävyysvajeeseen täytyy puuttua voimakkaasti panostamalla sekä työllisyyteen että lapsiperheiden ja nuorten hyvinvointiin.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_008	validation_109	Taannoin toteutettu perustulokokeilu oli valitettavasti otannaltaan liian suppea, ja seuraavassa vaiheessa kokeilua tulisi laajentaa esimerkiksi yrittäjiin ja itsensätyöllistäjiin.	5
+http://ldf.fi/semparl/speeches/s2021_1_063_133	validation_110	Minusta on ihan hyvä, että siellä on tämä ponsi eli lausuma, jossa edellytetään, [Puhemies koputtaa] että hallitus seuraa tätä toimialaa ja tämän lainsäädännön käytännön toteutusta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_111	Ne saatettiin tietää poliitikkojen sisäpiirissä, mutta ei kansa niitä silloin ymmärtänyt.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_132	validation_112	Se korostaa EU:n yhteisten arvojen — demokratian, oikeusvaltioperiaatteen sekä ihmisoikeuksien — merkitystä.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_209	validation_113	— Ja edustaja Rantanen, Mari, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_105	validation_114	EU:n metsäpolitiikassa onnistuminen on aivan elintärkeä kansallinen prioriteetti.	2
+http://ldf.fi/semparl/speeches/s2021_1_063_145	validation_115	Eli se paikka, mihinkä se sijoitettaisiin, olisi ulkomaalaissääntelyn maahantulopykälät, ja siinä palattaisiin normaaliin, poistettaisiin poikkeukset.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_146	validation_116	Ja me täällä teemme sellaisia päätöksiä, että me tulemme yhä enemmän riippuvaisiksi ulkoisesta energiasta.	5
+http://ldf.fi/semparl/speeches/s2021_1_091_040	validation_117	Edustaja Ovaska, kuvasitte sen, miten tärkeää on, että me toimimme poikkihallinnollisesti, eri ministeriöt yhdessä, ja sitä työtä olemme tehneet.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_042	validation_118	Tätä listaa voisi jatkaa myöskin puhelimen käytön, verkkopalveluiden ja internetin maailmassa, puhuttaessa oikeuksista matkustettaessa ja mahdollisuudesta hyödyntää myös EU:n tarjoamaa koulutusta ja	0
+http://ldf.fi/semparl/speeches/s2018_1_169_011	validation_119	Kolmanneksi tarvitaan panostuksia työhyvinvointiin ja työkyvyn ylläpitoon.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_032	validation_120	Kuuntelin huolella nämä ryhmäpuheenvuorot, ja erityisesti pisti korvaani tai silmiini edustaja Mäkelän puheenvuoro, jossa hän totesi, että Suomen EU-jäsenyyden ainoa kriteeri on ajaa häikäilemättömästi omaa etuaan.	7
+http://ldf.fi/semparl/speeches/s2017_1_054_059	validation_121	Asetus on jo sallinut vuodesta 2014 asti suomalaisille yrityksille laskea liikkeelle osakkeitaan ulkomaisissa arvopaperikeskuksissa.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_134	validation_122	Kaikki Pohjoismaat liittyivät silloin talousalueeseen, ja Norja ja Islanti jatkavat siinä edelleen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_148	validation_123	Tosin en ole yhtä kaino kuin varapuhemies Pekkarinen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_093	validation_124	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2018_1_169_027	validation_125	Kyllä pitää pystyä yrittäjyydestä kerryttämään eläkettä ja saamaan myöskin sosiaaliturvaa, jos sairastuminen tai työttömyys yllättää, jos ei niitä töitä yksinkertaisesti ole.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_127	validation_126	Me ihmettelemme sitä, miksi meillä ei ole täällä nyt käsittelyssä lakiesitystä tästä 50 prosentin ennakonpidätyksestä vaan ponsi.	8
+http://ldf.fi/semparl/speeches/s2021_1_125_040	validation_127	Me pääsemme eteenpäin etsimällä ratkaisuja niihin ongelmiin ja haasteisiin, joita tulee esiin, emme sillä tavalla, että keksimme uhkakuvia, jotka kumpuavat menneisyyteen tarraamisesta.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_144	validation_128	Kun me ihan lähikuukausien aikana saamme tuomioistuimen arvion, niin Suomen näkökulmasta tätä uutta oikeusvaltiokytkentää tulee soveltaa.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_068	validation_129	Vuosi on ollut aikaa hallituksella [Toimi Kankaanniemi: Ja oppositiolla!] valmistella mahdollisia lakiesityksiä, tämä esitys on ollut vuoden valiokunnan käsittelyssä, mitään ei ole tapahtunut.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_134	validation_130	EU-asetuksen vuoksi tehtävät lakimuutokset tekevät ulkomaisen hallintarekisteröinnin nykyistä kannattamattomammaksi.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_072	validation_131	Minä muistutan Verohallinnon lausunnosta teidän omalle valiokunnallenne, jossa todetaan kansainvälisestä tiedonsaannista:	0
+http://ldf.fi/semparl/speeches/s2021_1_125_069	validation_132	Se asia tuntuu saavan ehkä jossain määrin kokoaan suuremmankin huomion.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_150	validation_133	Mutta sitten te sanotte, että laissa pitäisi säätää, että sen suomalaisen omistuksen, suomalaisen kansalaisen omistamisen vaikkapa nyt siellä Ranskassa, pitäisi olla suoraa omistusta ja että tuo Suomi-poikkeus koskisi tätä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_136	validation_134	Suomen Eurooppa-politiikka on kovin sinisilmäistä.	6
+http://ldf.fi/semparl/speeches/s2021_1_131_173	validation_135	— Edustaja Östman, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_013	validation_136	Siellä on paljon tehtävää vielä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_020	validation_137	Presidentti Niinistön huomio on osuva.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_022	validation_138	Väestöliittohan julkisti marraskuussa perhebarometrin, jossa kävi ilmi, että suomalaiset eivät halua perhevapaisiin kiintiöitä, vaan haluavat itse päättää, kuka heidän lapsiaan milloinkin hoitaa.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_059	validation_139	Suomessa ei ole ollut, eikä nytkään tänne tule hallintarekisterimallia.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_004	validation_140	Koulutuksen painopistettä tuleekin siirtää yhä enemmän teoreettisiin perusvalmiuksiin ja metataitoihin, jotka muuntautuvat teknologian kehityksen mukana.	0
+http://ldf.fi/semparl/speeches/s2021_1_063_143	validation_141	Tämähän kertoo sen, että olisi aivan mahdoton ajatus, että kun me tiedämme monia nuoria, jotka kuitenkin tienaavat aika isojakin summia keräämällä marjoja…	0
+http://ldf.fi/semparl/speeches/s2020_1_092_114	validation_142	Valiokunta pitää asianmukaisena, että ennen nimityspäätöksen tekemistä asiasta informoidaan sisäministeriä osana normaalia vuorovaikutusta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_134	validation_143	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_144	Yhteisvastuullisesti, kestävästi ja ihminen keskiössä — se on resepti, jolla Suomen hyvinvointivaltio rakennettiin.	2
+http://ldf.fi/semparl/speeches/s2020_1_146_084	validation_145	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_071	validation_146	EU-tiedonanto antaa mielestäni hyvän pohjan sille, että Suomea kuunnellaan, Suomi näkyy.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_018	validation_147	Voin silloin luottaa, kun hän on puikoissa, että asiat ovat varmasti hyvin selvitettyjä ja asioiden perään on kyselty.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_128	validation_148	Alustatalouden jätit ovat vahvasti keskittyneet Yhdysvaltoihin ja Kiinaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_117	validation_149	Suomi voi nostaa nuo ankkurit ja jättää koko EU:n pelkällä ilmoituksella, ja VKK tulee sen tekemään heti, kun se saa kansalta mandaatin.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_136	validation_150	Onko EU vahva?	0
+http://ldf.fi/semparl/speeches/s2021_1_124_202	validation_151	Myös tässä tietojen säilytysajan lyhentämisessä perusteluna on tietojen tarpeellisuusvaatimus.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_005	validation_152	Pelkän peruskoulun varassa ei enää työllisty.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_153	Sitä rahaa, mitä EU:n jäsenmaat maksavat EU:lle ja EU jakaa edelleen eteenpäin.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_132	validation_154	Ja kyllä, tässä on ongelma, ja siihen olemme pyrkineet etsimään ratkaisuja.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_061	validation_155	[Välihuutoja vasemmalta]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_156	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_069	validation_157	[Timo Heinonen: Jäähylle!]	7
+http://ldf.fi/semparl/speeches/s2020_1_092_115	validation_158	Toivon, että tämä nyt tällä tavalla menee hyvään maaliin ja tulee toimiva ja riittävä poliisipäälliköiden toimintavalta sinne.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_058	validation_159	Onko tässä taustalla jopa se, että halutaan ajaa arvopaperikeskukset sivuliikkeiksi, mikä olisi helppo tapa tällaiseen niin sanottuun forum-shoppailuun eli paikanetsintään, kuten Nordea on meille hyvin osoittanut.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_117	validation_160	Tämän maan tuhoaminen on lopetettava välittömästi.	7
+http://ldf.fi/semparl/speeches/s2021_1_125_162	validation_161	Mutta mitä tulee sitten perussuomalaisten jättämään eriävään mielipiteeseen...	0
+http://ldf.fi/semparl/speeches/s2017_1_054_134	validation_162	Veroviranomaisten automaattinen tietojenvaihto on jo vähentänyt ratkaisevasti suomalaisilta ulkomaisten sijoitusten salaamismahdollisuuksia — viittaan tällä muun muassa Ylen uutiseen 14. helmikuuta 2017.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_005	validation_163	Lopuksi suurkiitos valiokuntaneuvoksille ja koko valiokunnalle ansiokkaasta ja pitkäjänteisestä työstä.	1
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_164	Mehän muistelemme aina vanhoja [Naurua — Ben Zyskowicz: Se on tämä sali!] ja pohdimme sitä, mitä olisi pitänyt tehdä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_139	validation_165	Kysymys on siitä, haluammeko huolehtia omistamisen julkisuudesta ja verottajan tiedonsaannista.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_163	validation_166	Nostan saman asian tähän loppuun, minkä eilen nostin selonteon käsittelyn yhteydessä:	0
+http://ldf.fi/semparl/speeches/s2019_1_027_097	validation_167	Se avaa ovia itsensä tuntemiseen, omien vahvuuksien löytämiseen, luovuuden ja sosiaalisten taitojen kehittymiseen.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_115	validation_168	EU:ta pitää kaikilta osin vahvistaa, jotta me olisimme maailmassa enemmän turvassa ja jotta meidän vaikutusvaltamme globaalisti voisi kasvaa.	2
+http://ldf.fi/semparl/speeches/s2021_1_124_225	validation_169	Edustaja Rantanen tässä äsken nosti esille näitä niin sanottuja porsaanreikiä ja tavallaan niitä, mitkä pitäisi korjata.	0
+http://ldf.fi/semparl/speeches/s2021_1_063_145	validation_170	Meillä ulkomaalaislaissa lähdetään siitä, että ihmisellä on joku syy, kun hän tulee Suomeen.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_208	validation_171	Sanna Marinin hallituksen mielestä on.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_089	validation_172	Käytän nyt lyhyen puheenvuoron tässä, kun täällä on nyt arvosteltu näitä ponsia ja ponsien määrää.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_173	Hyvät kollegat!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_057	validation_174	On, kun on tällainen, miten minä sanoisin... [Olavi Ala-Nissilän välihuuto]	0
+http://ldf.fi/semparl/speeches/s2021_1_124_209	validation_175	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_048	validation_176	Edustaja Purra.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_049	validation_177	Keskustelu täällä toistaa aina itseään, kun puhumme Euroopan unionista: abstraktiot siltä puolelta, konkretia tältä puolelta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_120	validation_178	Tuotaisiin sitten nämä lakiesitykset kokonaisuutena niin, että ei jäisi epäilystäkään siitä, että tämä ongelma syntyisi.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_181	validation_179	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_132	validation_180	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_181	Se on ihan totta, että meillä on edelleen siellä tekemistä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_089	validation_182	Tässä energia- ja ilmastostrategiassa on muun muassa vasemmistoliitto mukana.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_152	validation_183	Minä ihailen, kun ihmisellä on oikein vahva tahto, niin kuin edustaja Anderssonilla on.	3
+http://ldf.fi/semparl/speeches/s2021_1_091_040	validation_184	Tämäkin päivä ja ulkoasiainvaliokunnan hyvin laadittu mietintö todistavat sen, että me tarvitsemme kaikkia eri politiikan lohkoja, jos ja kun me haluamme yhteiskuntia, tässä tapauksessa Afganistania, viedä eteenpäin.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_093	validation_185	Miten palataan ennakoivaan EU-vaikuttamiseen?	0
+http://ldf.fi/semparl/speeches/s2021_1_125_022	validation_186	Tähän liittyvät erityishuolet talvimerenkulusta ja kuljetuskustannuksista.	6
+http://ldf.fi/semparl/speeches/s2018_1_169_041	validation_187	Liian pitkälle edennyttä ylikansallisuutta eurooppalaisessa ja globaalissa järjestelmässä tullaan purkamaan ja kansallisvaltiot vahvistuvat.	2
+http://ldf.fi/semparl/speeches/s2020_1_045_007	validation_188	Yhteyden toimivuus saattaa vaihdella jopa saman rakennuksen sisällä, puhumattakaan katvealueista tiheästikin asutuilla asuinalueilla kaupungeissa.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_047	validation_189	Tämä pitää pitää mielessä ihan kaikessa päätöksenteossa, mitä me teemme, sen me olemme velkaa tuleville sukupolville.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_011	validation_190	Tulevaisuusvaliokunta on tehnyt hyvää ja ansiokasta työtä.	1
+http://ldf.fi/semparl/speeches/s2017_1_054_149	validation_191	Eli lokakuun alkuun mennessä tulee olla lupa haettuna, ja tässä on vielä kesälomat välissä, ja menee varmaan joku päivä, kun tämäkin lainsäädäntö vahvistuu.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_036	validation_192	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_126	validation_193	Nämä siteeraamani keskusrikospoliisin ja poliisin antamat lausunnot ovat nimenomaan tähän lakiesitykseen, joka täällä tänään on käsittelyssä.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_005	validation_194	On nuorten tulevaisuuden kannalta tärkeää, että asia etenisi.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_132	validation_195	Suomi on aktiivinen, aloitteellinen ja yhteistyökykyinen jäsenvaltio, joka edistää paitsi omia kansallisia tavoitteitaan myös EU:n etua ja yhtenäisyyttä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_026	validation_196	Tämä taitaa olla ensimmäinen kerta, kun EU:n kansalaisilta kysytään heidän mielipiteitään.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_020	validation_197	Toimeentulotuenkin kohdalla se, että sitä käytetään niin paljon ja niin monet ovat sen piirissä, johtuu juurikin siitä vastikkeellisuudesta, kun sinne pudotaan, kun tulee karenssit ja aktiivimallit ja muu sellainen.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_138	validation_198	Sen eteen meidän täytyy myös tehdä vahvasti töitä, ja sen takia nämä ponnet ovat olemassa, että myös tähän paneudutaan ja laitetaan hallitus työskentelemään.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_026	validation_199	EU:n on yhdessä muun kansainvälisen yhteisön kanssa painostettava Talibania siihen, että tyttöjen ja naisten oikeuksia koskevat rajoitukset puretaan.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_065	validation_200	Ja Juhana Vartiaisen lopputulema oli se, [Puhemies koputtaa] että Ruotsi on maa, jossa lähtökohtaisesti ei pidetä kanssaihmistä rikollisena ja maailmaa pahana.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_059	validation_201	Miten, ministeri, miten me voitaisiin yhteistä turvallisuutta [Puhemies koputtaa] EU:ssa entisestään vahvistaa?	0
+http://ldf.fi/semparl/speeches/s2017_1_054_072	validation_202	Edustaja Turunen, te viittasitte siihen, että uudet kansainväliset säädökset parantavat tiedonsaantia.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_150	validation_203	— Avaan keskustelun.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_134	validation_204	Se olisi Suomen etu.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_011	validation_205	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_018	validation_206	Sitä täytyy säilyttää, ja sitä täytyy päinvastoin käyttää häikäilemättömän kansallisen edun ajamiseen.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_241	validation_207	Vihreät miehethän tulivat ensin Ukrainan maaperälle Krimille, ja sen kautta alue vallattiin.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_208	— Ennen oli kaikki paremmin.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_209	Keskustan ryhmän puolesta kiitän lämpimästi tulevaisuusvaliokuntaa, puheenjohtajaa ja jäseniä, hyvästä keskustelusta ja tästä mietinnöstä.	3
+http://ldf.fi/semparl/speeches/s2021_1_125_111	validation_210	Näyttää, että te olette ajamassa liittovaltiota elvytyspaketin ja sosiaalirahaston kautta.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_119	validation_211	EU:n toimintatapa on holtiton.	7
+http://ldf.fi/semparl/speeches/s2021_1_125_154	validation_212	Mikä tässä oli niin erinomaisen huonosti sanottu?	7
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_213	Miten sisämarkkina, jossa on 500 miljoonaa ihmistä, voi toimia niin huonosti, että sinne tarvitaan työperäistä maahanmuuttoa?	5
+http://ldf.fi/semparl/speeches/s2017_1_054_142	validation_214	Yksi hallituspuolue haluaa antaa kuvaa siitä, että tähän esitykseen ei sisälly minkäänlaisia ongelmia, koska ei liity minkäänlaisia ongelmia siihen, että omistajat käyttävät hallintarekisteriä osakeomistusten hallinnoimiseksi.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_215	Jos me tämän fiksusti teemme, niin ilman muuta se on mahdollisuus mielestäni.	2
+http://ldf.fi/semparl/speeches/s2020_1_045_006	validation_216	Tämä välttämättömyyskriteeri on ehkä julkisessa keskustelussa saanut vähän liiankin jyrkän sisällön.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_217	Tähän liittyy myös sotilaallisten yhteistyövalmiuksien kehittäminen, jota tukee EU:n kehittyvä puolustus‑ ja puolustusteollinen yhteistyö.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_202	validation_218	Sama koskee myös turvallisuustietorekisterissä olevia tietoja, joihin voi sisältyä muun muassa vangin kirjeenvaihtoon ja puheluihin liittyviä tietoja, vangin turvatarkastukseen liittyviä tietoja, Rikosseuraamuslaitoksen saamia vihjetietoja sekä tietoja poikkeuksellisista, turvallisuutta vaarantavista tapahtumista vankilassa.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_153	validation_219	Tässä yhteydessä käytiin aika paljon keskustelua myös tästä massavalvonnasta ja sen käsitteistä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_130	validation_220	Tämä aikaistetun käyttöönoton ajankohta on äärimmäisen huono.	5
+http://ldf.fi/semparl/speeches/s2021_1_091_038	validation_221	Meillä tätä sotilasoperaatiota johdetaan Suomesta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_066	validation_222	Edustaja Elomaa.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_014	validation_223	Myönnän nyt ensiksi näille, jotka käyttivät ryhmäpuheenvuoron, ja sitten muille.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_097	validation_224	Uutta tietoa voi luoda vain vanhan päälle ja vanhaa tietämällä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_225	Sovittamalla yhteen taloudellinen, ympäristöllinen ja sosiaalinen kestävyys EU:sta voidaan rakentaa maailman kilpailukykyisin ja sosiaalisesti ehein ilmastoneutraali talous.	2
+http://ldf.fi/semparl/speeches/s2020_1_021_032	validation_226	Tarkastusviraston johtopäätös on, että viraston tietoon ei ole tullut seikkoja, joiden perusteella tarkastusvirastolla olisi syytä epäillä vastaanottamiensa ilmoitusten oikeellisuutta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_024	validation_227	Omalla rahoituspohjallaan EU voi kehittyä valtioliittona, joka tuottaa yhteistä eurooppalaista lisäarvoa.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_014	validation_228	Asetuksessa säädetään alueista, joilla ravitsemisliikkeet on pidettävä suljettuina asiakkailta majoitus- ja ravitsemistoiminnasta annetun lain 3 a §:ssä tarkoitetuissa poikkeusoloissa.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_105	validation_229	[Puhemies koputtaa]	0
+http://ldf.fi/semparl/speeches/s2018_1_169_032	validation_230	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_096	validation_231	Minä pyrin siihen, että kaikki edustajat saisivat yhden puheenvuoron.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_155	validation_232	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_046	validation_233	Koulutuksessahan nyt on huomattu, että valitettavasti on oppilaita, joilla on ihan selvästi peruskoulun päättämisvaiheessa vaikeuksia luetun ymmärtämisessä, niin että se haittaa sitten jo ihan jatko-opiskelua ja normaalia elämää.	5
+http://ldf.fi/semparl/speeches/s2021_1_091_034	validation_234	Sen lisäksi, että nyt evakuoimme nämä 170, niin ryhmämme näkemys on se, että on isompi joukko ihmisiä, jotka ovat vaarassa Afganistanissa sen vuoksi, että ovat toimineet Suomen kanssa yhteistyössä, Suomen hyväksi, ja meidän nähdäksemme meidän vastuumme evakuoinnista on vielä suurempi.	2
+http://ldf.fi/semparl/speeches/s2020_1_021_035	validation_235	Mutta, arvoisa puhemies, vaalirahoituslakia ja puoluelakia on tarkistettu viimeksi vuonna 2015, ja tämän jälkeen tarkastusvaliokunta on mietinnöissään käsitellyt ehdokasmaksuihin ja kansanedustajamaksuihin liittyviä epäkohtia sekä vaalikampanjakulujen kasvua.	0
+http://ldf.fi/semparl/speeches/s2020_1_146_088	validation_236	Se on yhtä järjetön tukikriteeri kuin jos esimerkiksi navetan rakentamiseen saatu tuki rajoittaisi maidon myymistä sen maatilan ulkopuolelle, elikkä kaikki maito pitäisi juoda siellä maatilalla, kun sitä varten on kerta saatu sitä tukea.	7
+http://ldf.fi/semparl/speeches/s2020_1_146_086	validation_237	Siksi pidän kyllä tärkeänä, että tämänkaltaisia esityksiä pystytään käsittelemään.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_061	validation_238	Nyt on laadinnassa EU:n strateginen kompassi, ja todella toivon, [Puhemies koputtaa] että tässä asiassa hallitus toimii erittäin proaktiivisesti [Puhemies koputtaa] ja on laatimassa kysymykset eikä vain vastaamassa niihin.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_150	validation_239	Me tarvitaan löysempi kansainvälinen yhteistyö.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_085	validation_240	Mitä tälle voisi tehdä?	0
+http://ldf.fi/semparl/speeches/s2018_1_169_017	validation_241	Ihan ensin, tuossa ryhmäpuheenvuorossa en käsitellyt sitä tärkeää seikkaa, mihin SDP:n ryhmän on kyllä helppo yhtyä eli tämmöiseen monipuolisempaan näkökulmaan työhön, työkykyyn, osatyökykyisiin liittyviin huomioihin, mitä ministerikin tuossa hyvin avasi, että toivottavasti tästä löydetään vahvaa yksimielisyyttä.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_109	validation_242	Se on hirveän häkellyttävää.	4
+http://ldf.fi/semparl/speeches/s2021_1_091_034	validation_243	Henki vielä kovakuntoisellakin kulkee vähän tiuhaa tahtia ja hiki valuu, kun juoksin tänne — kiitos valiokunnan puheenjohtaja Mika Niikon puheenvuorosta, että ehdin paikalle tuomaan vasemmistoliiton eduskuntaryhmän terveiset.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_150	validation_244	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2020_1_045_018	validation_245	Koska ravintolat kärsivät näistä rajoituksista, valtion olisi kannettava vastuuta ja tuettava pahiten rajoituksista kärsiviä yrityksiä suorilla tuilla.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_187	validation_246	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_083	validation_247	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_146	validation_248	Mitä tulee edustaja Turusen kommenttiin siitä, että juridisesti mitään ei ole tehtävissä, niin sehän on mielenkiintoista ottaen huomioon, että se, [Kaj Turusen välihuuto] mitä me toivomme, että te juridisesti tässä tekisitte, on lakiesityksiä, mitä te ette ole tehneet siitä huolimatta, että teillä on ollut vuosi aikaa niitä tehdä.	5
+http://ldf.fi/semparl/speeches/s2021_1_124_202	validation_249	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2022_1_007_167	validation_250	Tätä valvonnan kulttuuria, tiedustelutoiminnan valvonnan kulttuuria — ja hyvää sellaista — kehitetään edelleen, mutta yksi osa tätä kulttuurin rakentamista on tietenkin koko eduskunnan kiinnostus tämän tiedustelutoiminnan yksityiskohtiin.	0
+http://ldf.fi/semparl/speeches/s2020_1_146_081	validation_251	Tuen katsotaan madaltavan kaasukäyttöisten kuorma-autojen hankintahintaa, joskaan ei kuitenkaan täysin samalla tasolla kuin dieselkäyttöisten kuorma-autojen.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_165	validation_252	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_158	validation_253	Suomessa vain ei silloinen sisäministeri Orpo halunnut asiaa hoitaa järkevällä tavalla, ja niin mentiin sitten siihen tilanteeseen ja ajauduttiin, mihin ajauduttiin.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_044	validation_254	Tulevaisuudessa tämän muokkaamisen toteuttavat oppivat algoritmit nopeana ja automaattisena prosessina, johon liittyy syrjivien käytäntöjen riskin kasvaminen.	6
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_255	Ja yksi iso haaste suomalaisessa yhteiskunnassa on se, että me emme muista antaa aikaa sen teknologian käytön opiskelulle, vaan usein meille tulee uusia ja uusia ohjelmia, joita ei sitten kuitenkaan hyödynnetä täysimääräisesti, koska kukaan ei koskaan ole muistanut opettaa tai ottanut aikaa siihen oppimiseen, että niitä voisi hyödyntää.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_004	validation_256	Suomella on suuri potentiaali olla alustatalouden luvattu maa.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_130	validation_257	Nyt hallituksen linja tuntuu tässä asiassa olevan kyllä hajallaan, ja se on äärimmäisen vaarallista.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_124	validation_258	Tämän talon ja hallituksen vastuulla on tuoda tämä eurooppalainen yhteinen lainsäädäntö myöskin kotimaahan.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_111	validation_259	Eli tähän nyt sitten jäisi vielä vähän palloa hallitukselle miettiä, miten näitä yrityksiä pystyttäisiin vastaavasti nopealla vaikutuksella ja helpoilla tavoilla auttaa.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_260	Kaikki nämä ovat välttämättömiä asioita, ja ne edellyttävät koulutuksen kehittämistä kaikilla asteilla — voisi sanoa, että varhaiskasvatuksesta kaikkein korkeimpaan koulutukseen, ehkä niin, että koko ketju menee tutista tohtorinhattuun asti.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_025	validation_261	Tulevaisuuden työstä puhuttaessa meidän on tärkeä liittää se kestävän kehityksen haasteisiin.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_123	validation_262	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_263	Sellainen ei Suomeen tule.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_264	Siksi myös sosiaaliturvan täytyy jatkossa olla vahvaan perusturvaan nojaava kokonaisuus, joka antaa sijaa yrittämiselle, osuuskunnille ja yhteistyölle.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_107	validation_265	Tämä on ihan mielenkiintoinen asia.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_266	— Vielä edellisen viikon istunnossa täällä suurin piirtein siltä ilmansuunnalta väitettiin, että hallintarekisteri on tulossa Suomeen.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_114	validation_267	Operatiivisen poliisitoiminnan ohjaavana ja valvovana tahona sekä poliisilaitoksen esimiesvirastona toimivalla Poliisihallituksella on sisäministeriötä paremmat valmiudet arvioida virkamiesvastuun toteutumista myös laillisuusvalvonnan näkökulmasta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_164	validation_268	En tiedä, haluaako oikeusministeri Henriksson sitten lähteä kylmiltään tähän debattiin mukaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_002	validation_269	Lisäksi konsuliapua tarvitsevien henkilöiden määrä on selonteossa ilmoitetun mukaisesti arviolta 60 henkeä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_145	validation_270	Olen käynyt kirjeenvaihtoa komission kanssa.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_022	validation_271	Taloudellisesti menestyvä ja sisäisesti yhtenäinen unioni on myös turvallisempi ja globaalisti vaikutusvaltaisempi toimija.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_013	validation_272	Olen sitä mieltä, että meidän pitää olla sen kehityksen kärjessä tekemässä muutosta eikä virran mukana.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_011	validation_273	Kun sosiaaliturvaa aletaan uudistaa, pitää löytää yhteinen näkemys siitä, mihin suuntaan sitä kehitetään.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_075	validation_274	Kun kokoomus ilmoittaa vastalauseessaan, että oikeusvaltioperiaatteen rapautumista ei voi sallia eikä EU saa rahoittaa jäsenmaita ja niin edelleen, niin näinhän hallitus on linjannut myöskin monivuotisten rahoitusten kohdalla ja vaatinut sinne ehdollisuuksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_170	validation_275	Pankkien rooli riskirahoittajana on käytännössä jäänyt pk-yritysten valikoimasta pois.	5
+http://ldf.fi/semparl/speeches/s2021_1_124_202	validation_276	Tietoja kerätään vangeista ja tutkintavangeista, joiden voidaan perustellusti epäillä syyllistyvän rikokseen, josta saattaa seurata vankeutta.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_002	validation_277	Puolustusvoimien arvion mukaan joukon käytöstä aiheutuu enintään 792 000 euron kustannukset, jotka esitetään katettavaksi valtiovarainministeriön momentilta Ennakoimattomat menot.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_278	Joko sovelletaan lakia tai ei sovelleta lakia, mutta pitää tunnistaa, että työelämä on todella pirstaloitunutta, että on todella monia tapoja tehdä töitä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_145	validation_279	Kieltääkö se jotakin?	0
+http://ldf.fi/semparl/speeches/s2018_1_169_045	validation_280	Kyse on suuruusluokaltaan hyvinvointivaltion rakentamiseen verrattavissa olevasta tehtävästä.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_052	validation_281	Ne siis tsättäilivät Facebookissa omia juttujansa, ja ihminen, joka ne oli sinne laittanut valvomaan sisältöä, ei enää tiennyt, mistä ne keskustelevat, ja sen vuoksi ne jouduttiin sammuttamaan.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_153	validation_282	Ei voi missään tapauksessa hyväksyä järjestelmää, jossa valvonta olisi hallituksen näpeissä.	6
+http://ldf.fi/semparl/speeches/s2020_1_045_015	validation_283	Tähän täytyy löytyä keinoja, kuten on pyritty löytämään muidenkin yritysten kohdalla.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_284	Tehän sitä rahaa sinne EU:lle haluatte antaa.	7
+http://ldf.fi/semparl/speeches/s2021_1_125_026	validation_285	Me vasemmistoliitossa haluamme Euroopan unionin, joka kuuntelee omia kansalaisiaan ja pyrkii ratkomaan globaaleja haasteita yhteisvoimin.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_110	validation_286	[Toimi Kankaanniemi: Ette olleet edes hallituksessa vai?]	7
+http://ldf.fi/semparl/speeches/s2021_1_124_203	validation_287	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2020_1_021_038	validation_288	Jos meille hypoteettisesti tulisi kampanjakatto, mitä se tarkoittaisi niille ehdokkaille?	0
+http://ldf.fi/semparl/speeches/s2020_1_021_038	validation_289	Edustaja Kiuru nosti esiin tämän problematiikan — tai ei problematiikan, mutta asian tästä kampanjakatosta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_017	validation_290	Kysyisin ministeriltä, mitä tällä hetkellä te teette tämän asian edistämiseksi niin konkreettisen työllistämisen kuin asenteidenkin tasolla.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_020	validation_291	Nyt kasvaneita jäsenmaiden velkasuhteita täytyy ryhtyä supistamaan, niin että talouskasvu ei kärsi, mutta pandemia ei voi myöskään olla syy hylätä sääntöihin pohjautuvaa vastuullista talouspolitiikkaa.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_065	validation_292	Arvoisa rouva puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_293	Valiokunta korostaa yhteydenpitoa ja verkostoitumista kaikkiin toimijoihin viranhaltijoista ministereihin.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_138	validation_294	Lisäksi, kuten mielestäni oikein on, EU-tuomioistuin on joku aika sitten tehnyt päätöksen, että Puolassa tällainen korkeimman oikeuden tuomarien kurinpitolautakunta on EU-säädösten vastainen, ja tänään EU-tuomioistuin on langettanut Puolalle uhkasakon, miljoona euroa per päivä, kunnes tämä asia on korjattu.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_047	validation_295	Tällaiset yhdistelmäindikaattorit toisivat kyllä varmasti uutta tietoa ja sellaista mittaristoa, joita päätöksenteossa voitaisiin huomioida, joskaan nekään, niin kuin mietinnössäkin todetaan, eivät aivan ongelmattomia ole ja niitten näkökulmien keskinäistä painottamista voi olla haastavaa tehdä.	0
+http://ldf.fi/semparl/speeches/s2020_1_146_081	validation_296	Esityksen positiiviset ympäristövaikutukset jäänevät varsin maltillisiksi jo tukimäärän pienestä summasta johtuen.	5
+http://ldf.fi/semparl/speeches/s2020_1_092_117	validation_297	Mutta, niin kuin edustaja Lindén tässä totesi, professori Mäenpää antoi myöskin ansiokkaan panoksensa tämän hallituksen esityksen arviointiin.	3
+http://ldf.fi/semparl/speeches/s2017_1_054_113	validation_298	[Timo Heinonen: Minä vain kysyinkin, kenen idea tämä on ollut!]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_138	validation_299	Oikeusvaltioperiaatteen noudattaminen on ollut ja on myöskin EU-jäsenyyden ehto.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_300	Mitä tulee tähän oikeusvaltiokeskusteluun, mitä edustaja Hassi muun muassa otti äsken esille, niin voisin sanoa niin, että ymmärrän hyvin, että diktatuurista vapautuneet maat eivät enää koskaan tahdo olla diktatuurin osia.	2
+http://ldf.fi/semparl/speeches/s2021_1_063_135	validation_301	Minusta tämän lakiesityksen ongelma on siinä, että siinä lähdetään siitä, että työsuhdetta ei voida edellyttää, koska työ on järjestetty niin, että useimpien toimijoiden kohdalla työsuhteen tunnusmerkistö ei täyty, kun oltaisiin voitu lähteä siitäkin, että työ on järjestettävä niin, että työsuhteen tunnusmerkistö täyttyy, jolloinka me oltaisiin ihan päinvastaisessa tilanteessa.	5
+http://ldf.fi/semparl/speeches/s2020_1_021_032	validation_302	Tarkastusviraston mukaan tukea oli otettu vastaan myös sellaisilta tahoilta, joilta ei vaalirahoituslain 4 §:n mukaisesti saisi vastaanottaa tukea.	6
+http://ldf.fi/semparl/speeches/s2018_1_169_036	validation_303	Mutta sen tuotteen osalta on vielä tärkeämpää miettiä, miten sitten arvonlisäverotusta tullaan kehittämään tulevaisuudessa ja miten saadaan käytännössä verot kannettua ja perittyä, kun myyjä ei ole sijoittunut Suomeen.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_006	validation_304	Puhuisimme nyt vaalien alla vain leikkauksista, jos nykyhallitus ei olisi määrätietoisesti parantanut erityisesti työnteon kannustimia, tuloksena yli 130 000 työllistä.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_008	validation_305	Teknologiapolitiikan ei pidä perustua myöskään pelkkiin yltiöoptimistisiin odotuksiin vaan laajaan analyysiin myös varjopuolista.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_047	validation_306	Haluan nostaa esille myös luovat alat osana tätä työn murrosta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_022	validation_307	On tärkeää tunnistaa politiikka-alueet, joilla yhteinen sääntely on tarpeen.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_138	validation_308	Tunnustan, että uutena kansanedustajana en sitä välttämättä kunnolla ymmärtänyt, mutta tänä pitkänä aikana olen sen oppinut.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_004	validation_309	Murrokseen on toki varauduttava etukäteen.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_030	validation_310	Tähän ponteen, jossa puhutaan osaamisesta ja sen yhä edelleen parantamisesta:	2
+http://ldf.fi/semparl/speeches/s2021_1_125_115	validation_311	Tällä tavalla me vahvistamme niitten yhteisten arvojen, jotka eivät ole vain läntisiä arvoja vaan YK:n yleismaailmallisia arvoja, näkyvyyttä maailmassa.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_158	validation_312	Näiltä arvoisilta, kunnioittamiltani keskustan edustajilta hieman kyllä peräänkuulutan nyt, kun teillä on puheenvuorotkin tulossa, miksi keskusta on päästänyt maa‑ ja metsätalouden näin vähällä huomiolla tämän selonteon läpi.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_096	validation_313	"Te olette käyttänyt hallintarekisteristä nimitystä ""porsaanreikä"" — minkälainen porsaanreikä?"	7
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_314	Haluaisin, arvoisa puhemies, sanoa vielä muutaman sanan oppimisesta ja koko koulutuspolitiikan ajatuksesta.	0
+http://ldf.fi/semparl/speeches/s2020_1_021_033	validation_315	Kampanjakatto muuttaa silloin sitä kilpailu-asetelmaa erilaiseen moodiin.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_009	validation_316	Nostan esille tästä mietinnöstä muutaman asian.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_024	validation_317	Arvoisa rouva puhemies!	0
+http://ldf.fi/semparl/speeches/s2018_1_169_038	validation_318	Yksi vastauspuheenvuoro vielä, edustaja Jarva.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_007	validation_319	Työ on ollut ja on tulevaisuudessakin tärkeä osa meidän kaikkien elämää.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_099	validation_320	Eli me saamme, suomalainen verottaja saa, tiedon sieltä pankeilta, koska ne ovat velvoitettuja sopimuksen perusteella antamaan tiedot.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_002	validation_321	Valiokunta ehdottaa, että asetukset toimivaltuuksien käytön jatkamisesta saavat jäädä voimaan.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_112	validation_322	Tässä suhteessahan olemme kyllä kohtuullisen yksimielisiä muussa rintamassa plus perussuomalaistenkin kanssa siitä, että jonkinlainen korko olisi hyvä silti olla, ettei ihan nollaan mentäisi.	0
+http://ldf.fi/semparl/speeches/s2020_1_146_083	validation_323	Siihen voidaan ohjata euroja.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_091	validation_324	Aivan oikea huomio, edustaja Kiljunen, mutta unohditte yhden seikan: Euroopan unioni itse on rikkonut kaikki mahdolliset sopimukset.	7
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_325	Tulevaisuus on liian laaja käsite kutistettavaksi vain yhden vaalikauden mittaiseen ajatteluun.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_020	validation_326	Euroopan unionia on kehitettävä arvoyhteisönä.	0
+http://ldf.fi/semparl/speeches/s2021_1_063_139	validation_327	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2020_1_021_037	validation_328	On siis erittäin hyvä, että tarkastusvaliokunta tulee jatkossakin seuraamaan tilanteen kehittymistä, ja on myös erinomaista, että valtioneuvosto on nyt asettanut pääministeri Marinin hallituksen ohjelmassa tarkoitetun parlamentaarisen työryhmän selvittämään vaalilain, puoluelain, vaalirahoituslain ja tarvittaessa muutakin poliittista toimintaa koskevan lainsäädännön kehittämistarpeita.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_034	validation_329	Sellainen analyysi tarvitaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_136	validation_330	Jaa-a.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_020	validation_331	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_146	validation_332	No, otetaan velkaa ja ostetaan saksalaista juustoa.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_002	validation_333	Tällainen jatkamisasetus voidaan antaa määräajaksi enintään kuudeksi kuukaudeksi kerrallaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_168	validation_334	Tämä järjestelmä, joka meillä on, joka ontuu joka nurkasta ja tukehtuu byrokratiaansa, ei tule pysymään pystyssä.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_182	validation_335	Tämä hallituksen esitys on tällä hetkellä valtiovarainvaliokunnassa, ja sen vaikutushan on tälle vuodellekin yli 100 miljoonaa euroa, joka siis lisää kansalaisten kustannuksia, kun on kyse liikkumisesta.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_045	validation_336	[Satu Hassi: Ilmastovelka on pahin!]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_139	validation_337	— Edustaja Mäkelä, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_338	Eli minä uskon, että me olemme oikealla tiellä, mutta tämä ei tapahdu ihan yhdessä vaalikaudessa, näitten asioitten muuttaminen.	2
+http://ldf.fi/semparl/speeches/s2020_1_092_112	validation_339	Tosiaan, kiitos myös jaostolle hyvästä yhteistyöstä asian käsittelyssä, vaikka tässä tämä kokoomuksen ja kristillisdemokraattien vastalause koron tasosta jätettiinkin.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_042	validation_340	Puhemiesneuvosto ehdottaa, että eduskunta päättäisi keskeyttää valtiopäivät tämän istunnon päätyttyä sekä kokoontua jatkamaan työtään tiistaina 7.9.2021 kello 14 alkaen.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_241	validation_341	Kun kävimme tämän esityksen lähetekeskustelua, esitys sai varsin laajan ja yhtenevän kannatuksen tässä salissa.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_110	validation_342	Tämä yrityksiä koskeva huojennettu maksujärjestely laajennetaan nyt siis koskemaan alkuvuonna 2020 erääntyneitä ja suoritettuja arvonlisäveroja.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_156	validation_343	Kiitos, arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_035	validation_344	Edustaja Wallinheimo.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_055	validation_345	Mikä on hallituksen linja näin keskeisessä kysymyksessä?	0
+http://ldf.fi/semparl/speeches/s2021_1_131_170	validation_346	Syynä on tämä alussa mainittu syy: toisin kuin esimerkiksi noteerattuun arvopaperiin tai sijoituksena osakepääomaan pääomalainaan noteeraamattomaan ja myöhemmin esimerkiksi yrityssaneerauksen kohteeksi joutuneeseen osakeyhtiöön sijoittanut yksityishenkilö ei ole oikeutettu vähentämään tätä pääomalainasta syntynyttä tappiota verotuksessa.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_184	validation_347	Uskon, että kannustaisi ihmisiä kulkemaan pitempiä matkoja ja ottamaan töitä kauempaa vastaan, jos polttoaineen hinta olisi halvempi, ja pidän tätä edustaja Laukkasen aloitetta oikein hyvänä.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_119	validation_348	Ja itse prosessista:	0
+http://ldf.fi/semparl/speeches/s2018_1_169_036	validation_349	Olemme kuulleet, että työ muuttuu.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_350	Päätän tämän vastaamalla edustaja Hännisen kysymykseen robottiverosta.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_155	validation_351	Erittäin tärkeä asia, erittäin laaja asia, jota viime vaalikaudella useampi valiokunta käsitteli perusteellisesti.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_352	Se, mitä Suomen olisi pitänyt vuonna 94 tehdä, oli se, että olisimme liittyneet Natoon heti, kun pystyimme, ja sillä tavalla lopullisesti irtautuneet Venäjän etupiiristä, ja olisimme samalla voineet välttää EU-jäsenyyden ja sitä kautta seuranneen itsenäisyyden menetyksen.	5
+http://ldf.fi/semparl/speeches/s2020_1_045_008	validation_353	Eduskunta, ja perustuslakivaliokunta täällä, voi varmasti sitten jälkitarkastaa sen, että välttämättömyys ja oikeasuhtaisuus sitten toteutuvat siinä, mitä työkaluja sieltä valmiuslain osalta valtioneuvosto on käyttöönsä ottanut.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_043	validation_354	Siellä on uhkia, meidän pitää ne tunnistaa ja taklata, mutta itse väitän, että Suomi yhteiskuntana on semmoinen, että kun me pidämme koulutuksesta ja osaamisesta huolta, niin me selviämme tästä asiasta voittajana, se on enemmän mahdollisuus.	2
+http://ldf.fi/semparl/speeches/s2022_1_007_161	validation_355	Tämä parlamentaarisuus osaltaan vahvistaa myös tätä läpivalaisun periaatetta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_005	validation_356	Tulevaisuusselonteot on otsikoitu ”Työn murros ja suomalaisen työn tulevaisuus”.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_075	validation_357	Metsästrategiasta kokoomus sanoo, että metsäpolitiikan päätöksenteon on pysyttävä kansallisella tasolla.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_150	validation_358	Edustaja Anderssonille:	0
+http://ldf.fi/semparl/speeches/s2017_1_054_105	validation_359	Ensinnäkin on todettava, että sellaista retoriikkaa — on hallituspuolueiden omasta rivistä käytetty — jossa on todettu, että he eivät ole tulleet valituksi eduskuntaan edistämään rikoksia, edustaja Pirttilahti, on kuultu hallituspuolueiden rivistä, perussuomalaisten rivistä, jotka tosin nyt eivät tänään täällä ole puolustamassa.	7
+http://ldf.fi/semparl/speeches/s2021_1_125_030	validation_360	Tämä edesauttaa sitä, että EU kykenee tekemään politiikkaa, joka huomioi olosuhteet eri puolilla Eurooppaa.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_024	validation_361	Kyse on viime kädessä ihmisoikeuksien toteutumisesta, emmekä voi EU:n kansalaisina hyväksyä, että muiden EU-kansalaisten oikeudet taantuvat.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_119	validation_362	Suomi häviää kompromisseissa aina, koska me emme ole koskaan valmiita lähtemään neuvottelupöydästä, ja juuri nyt panokset ovat nousseet niin valtaviksi, ettei itsensä huijaamiseen enää ole varaa.	6
+http://ldf.fi/semparl/speeches/s2021_1_124_210	validation_363	Mutta kuten tämän reilun kahden vuoden aikana olen huomannut, näin tämä prosessi ei sitten kuitenkaan mene, vaan se menee just niin, että runnotaan läpi välillä kyllä — suoraan sanoen — mitä sattuu, olkoonkin, että ne ongelmat on täällä asiantuntijakuulemisissa esitetty, kuten nyt tässäkin nähdään.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_013	validation_364	Itse en kyllä ole sitä mieltä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_075	validation_365	Arvoisa rouva puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_127	validation_366	— Edustaja Kaunisto.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_188	validation_367	Tästähän on paljon täällä eduskunnassakin käyty keskustelua, ja tällä omalla aloitteellamme haluamme tätä olla vauhdittamassa ja siten myös edistämässä kansalaisten tasa-arvoa, koska tällä hetkellä mielenterveyden ongelmat eriarvoistavat kansalaisia.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_154	validation_368	Siltä osin kuin jäsenvaltioiden oletetut oikeusvaltion ongelmat tosiasiallisesti vaarantaisivat talouskasvun, investoinnit ja sisämarkkinoiden toiminnan, Suomen tulee olla avoin toimenpiteille taloudellisten intressien turvaamiseksi sekä vahvistaaksemme kansalaisten ja yritysten luottamusta oikeusvaltioon.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_121	validation_369	Jussi Pesonen, toimitusjohtaja, ja hallituksen puheenjohtaja Wahlroos ovat varoittaneet meitä jo ainakin kolme kertaa.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_018	validation_370	[Perussuomalaisten ryhmästä: Ohhoh!]	8
+http://ldf.fi/semparl/speeches/s2022_1_007_165	validation_371	Nimittäin tiedustelutoimintaa harrastetaan eri puolilla maailmaa — käytännössä kaikki maat harrastavat erilaista tiedustelutoimintaa — mutta se, mikä demokraattisille maille, avoimille yhteiskunnille, on ominaista: oikeusperusta on vahva ja varma.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_057	validation_372	Ja jottei tulisi unohduksiin se asia, että talousvaliokunnassa olevat oppositiopuolueet ovat jättäneet yhteisen vastalauseen, joka lähtee siitä, että tämä esitys tässä muodossaan on järkevä ja tarpeellinen hylätä, halusin tämän vielä toistaa.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_373	Ja sen vuoksi uskon, että meillä on hyvät keinot yhdistää nämä kaksi asiaa toisiinsa sillä tavalla, että me teemme samaan aikaan vahvempaa työllisyyspolitiikkaa ja parempaa ilmastopolitiikkaa.	2
+http://ldf.fi/semparl/speeches/s2020_1_146_085	validation_374	Jakeluinfran ja vaihtoehtoisten käyttövoimien saatavuuteen tulee saada myös jatkossa merkittävää kehitystä, jotta raskaan liikenteen olisi mahdollista hyödyntää mahdollisimman laajamittaisesti ja tehokkaasti vähäpäästöisempää kalustoa.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_110	validation_375	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_134	validation_376	Vero menee suoraan Suomen valtiolle, sillä osakkeiden kotimaa kyllä saadaan tietää.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_116	validation_377	Niin kuin sanottu, tämä hyväksyttiin yksimielisesti, mutta minusta tämä keskustelu oli tärkeää ja periaatteellista.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_006	validation_378	Kolmas seikka, jonka haluan tässä tuoda esille, liittyy siihen laajempaan arvioon, mikä täällä joudutaan käymään.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_241	validation_379	Eli sodalla ei välttämättä enää ole selkeää alkupistettä, sodanjulistusta, eikä sen jälkeen myöskään välttämättä selkeää päätepistettä, vaan se on enempikin tällainen konfliktien sarja, josta Ukrainassakin voidaan puhua.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_155	validation_380	Ja niin kauan kuin on hiljaista, niin itse pidän sitä hyvänä merkkinä.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_042	validation_381	Edut kuluttajille: mahdollisuus tehdä ostoksia huoletta meidän järjestelmässä, mahdollisuus saada rahansa takaisin.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_003	validation_382	Tarrautumalla vanhoihin rakenteisiin, toimintatapoihin ja asenteisiin väistämättömästä muutoksesta tulee paitsi hitaampi myös tuskallisempi.	5
+http://ldf.fi/semparl/speeches/s2020_1_045_014	validation_383	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_096	validation_384	Edustaja Myllykoski totesi täällä, että hän ei ole ketään syyttänyt hämärämieheksi, ja se todella pitää paikkansa, mutta, edustaja Myllykoski, teidän edustamanne puolueen puheenjohtaja on täällä käyttänyt useaan otteeseen termiä, jolla alkaa tavallaan luokittelemaan näitä hallintarekisterin takana olevia pääoman edustajia, jotka pitävät Helsingin pörssiä pystyssä.	7
+http://ldf.fi/semparl/speeches/s2017_1_054_095	validation_385	Tämä ei ole opposition keksimää, tämä on tullut viranomaisilta asiantuntijakuulemisissa esille.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_171	validation_386	Sinänsä täytyy kiittää sitä alkuperäistä valmisteluprosessia, että se oli hyvin avoin ja parlamentaarinen ja että siinä valmisteluryhmässä sain vastauksia myöskin kiusallisiin ja ikäviin kysymyksiin.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_009	validation_387	Jos varmuutta ei ole, on tyydyttävä parhaisiin arvioihin.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_004	validation_388	Ja sen tähden onkin todella keskeistä seurata koko ajan sitä tilannetta, pyrkiä helpottamaan sitä ihmisten ahdistusta ja kohonnutta palveluntarvetta niin kuin vain parhaiten pystymme ja sitten samalla koko ajan pohtia, miten ja missä vaiheessa saisimme näitä rajoituksia helpotettua.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_123	validation_389	Myös Saksan poliittinen kehitys on menossa siihen suuntaan, että keskitetty talouspolitiikka tulee olemaan EU:n tulevaisuutta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_045	validation_390	Seuraavan hallituksen tulee luoda Suomelle oikeudenmukaisen siirtymän ohjelma, jossa määritellään ne alat ja alueet, jotka tarvitsevat muutostukea, ja määritellä, miten ilmastokestävä yhteiskunta rakennetaan sosiaalisesti oikeudenmukaisesti ja miten ihmisiä tuetaan muutoksessa.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_002	validation_391	Valiokunnan mielestä eduskunnan on syytä käsitellä Afganistanin monisyistä tilannetta perusteellisesti erikseen, mukaan lukien kansainvälinen kriisinhallintatoiminta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_047	validation_392	Yhteistyökykyinen ja tosiasioiden pohjalta toimiva EU on ollut perinteisesti se lähtökohta, jolla EU:ta on katsottu.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_125	validation_393	Hallitus korostaa edelleen elpymisvälineen kertaluontoisuutta, vaikka Etelä-Euroopan maat jo odottavat lisää rahaa käsi ojossa.	6
+http://ldf.fi/semparl/speeches/s2018_1_169_013	validation_394	Se on joustava, mutta ei ymmärretä sitä joustavuutta vain yksipuolisesti, se joustaa molempiin suuntiin.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_124	validation_395	Kun me saamme nyt vielä sen yhteisen lainsäädännön voimaan, joka on voimassa, joka vielä lisää viranomaisten ja verottajan tietojensaantia, niin kuten kerroin, meidän tilanteemme on itse asiassa vielä parempi ja edelleenkin veronkiertäminen on rikos.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_072	validation_396	Saatavat tiedot eivät miltään osin korvaa olemassa olevia vuosi-ilmoituksia tai muuta verotuksen kansallista tiedonsaantitarvetta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_149	validation_397	Tuossa kerkesi edustaja Myllykoski lähteä pois, mutta oli kysymys siitä, mitä se merkitsee sitten, jos Suomi ei ota käyttöön tätä asetusta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_008	validation_398	Ei kannata tuudittautua siihen, että teknologioiden avulla päästöt yhtäkkiä nollataan.	6
+http://ldf.fi/semparl/speeches/s2020_1_092_114	validation_399	Esittelen valiokunnan mietinnön.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_004	validation_400	Tämä edellyttää hyvää koulutustasoa, uteliaisuutta ja kykyä oppia jatkuvasti uutta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_017	validation_401	Tämä on osaamispotentiaali, joka jää käyttämättä, ja sen sijaan puhutaan ikään kuin tulevaisuusuudistuksista.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_036	validation_402	Arvoisa rouva puhemies!	0
+http://ldf.fi/semparl/speeches/s2022_1_007_163	validation_403	Meillä on hyvä keskinäinen luottamus ja ymmärrys siitä, että asiat hoidetaan hyvin — niin kuin edustaja Kemppi nosti esiin, on valitettavaa, että keskustelua on näin vähän.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_004	validation_404	Nämä ovat kuitenkin kysymyksiä, joihin meidän on palattava käsillä olevan akuutin kysymyksen eli evakuointioperaation päättymisen jälkeen.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_127	validation_405	— Edustaja Essayah, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_091	validation_406	Toinen asia: Nyt kun Euroopan unionista tehdään liittovaltiota suurella kohinalla, edustaja Kimmo Kiljunen sanoi puheenvuorossa, että EU edellyttää, että perussopimuksia noudatetaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_024	validation_407	Siksi EU:n oikeusvaltiovälinettä on edelleen vahvistettava ja sääntöjä rikkovien maiden toimintaan on puututtava.	2
+http://ldf.fi/semparl/speeches/s2020_1_146_088	validation_408	Mutta tuolla valtiovarainvaliokunnan kuulemisessa toin esille vain sen seikan, joka viime kaudelta kuulemma edelleenkin meillä jumittaa, nimenomaisesti sen, että meillä maatiloilla tämän kaasun myyminen sen maatilan ulkopuolelle on koko lailla mahdotonta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_083	validation_409	Kun EU:n integraatio aiheuttaa ongelmia, niin lisätäänpäs vähän integraatiota.	7
+http://ldf.fi/semparl/speeches/s2021_1_124_221	validation_410	Edustaja Rantanen, Mari, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_004	validation_411	Ja tänäänkin kun asiasta keskusteltiin, niin tunnistettiin, että näitä haittojakin on pyrittävä kartoittamaan, jotta sitten pystymme aina tavoittamaan sen perusoikeuksien kannalta parhaan ratkaisun.	0
+http://ldf.fi/semparl/speeches/s2020_1_021_035	validation_412	Kaikki ilmoitusvelvolliset jättivät vaalirahailmoituksen.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_161	validation_413	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2018_1_169_028	validation_414	Siinä oli epäselvyyttä, miten hoidetaan eläkeasiat ja miten hoidetaan verotus asiallisesti, että kaikki tulee hyvin hoidettua.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_415	Jos me mietimme sitä, millaiseen maailmaan nuoret tulevat töissä, tällä hetkellä peruskoulua käyvät ihmiset ovat vielä ehkä 2070-luvulla työelämässä, niin että nuoren on opittava lukemaan tulevaa.	2
+http://ldf.fi/semparl/speeches/s2022_1_007_161	validation_416	Siellä ei ole erikseen hallitusta ja oppositiota, vaan käytännössä eduskuntaryhmillä, joissa on enemmän kuin yksi jäsen, eli jokaisella puolueella on siellä paikka, joillain puolueilla kaksikin.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_130	validation_417	En tiedä, mitä lausuntoja nyt edustaja Lindtmanilla on tuossa käsissään ollut, mutta voitte uskoa sen, että minä olen yrittänyt katsoa tähän hallituksen esitykseen liittyviä lausuntoja — niin poliisin, oikeusministerin kuin syyttäjälaitoksenkin — mutta sieltä ei löydy sellaista tukea sille, että tämä lisäisi jotenkin harmaata taloutta tai rikollisuutta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_070	validation_418	Esitys olisi sallinut hallintarekisterin myös suomalaisille sijoittajille.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_146	validation_419	Elvytyspaketti numero 2 tekee tätä, ja tätä elvytyspaketti kakkostahan ei koskaan pitänyt tulla.	8
+http://ldf.fi/semparl/speeches/s2021_1_125_081	validation_420	Se on kaiken kaikkiaan yhteisö, jossa me nimenomaan rakennamme koheesioturvallisuutta, viemme hyvinvointia eteenpäin, ja sen Suomen kansa tietää.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_080	validation_421	Ja sen voin sanoa, niin kuin ministeri Orpokin sanoi, että jos haluaa todellakin salata ja pimittää, ei kyllä Eurooppaan kannata jäädä jatkossa, kun tulee se aito tietojenvaihto, mikä nyt tulee.	6
+http://ldf.fi/semparl/speeches/s2020_1_092_117	validation_422	Kun tässä on taustalla nämä aikaisempien vuosien tapahtumat, jolloin päätöksentekijät eduskunnassa näkivät aivan perustelluksi sen, että tätä nimittämistoimivaltaa siirretään valtioneuvostolle, niin oli mielestäni aivan tärkeää ja olennaista, että me nyt tässä vaiheessa kävimme tästä huolellisen keskustelun, analysoimme tilannetta ja myöskin, niin kuin edustaja Semi mainitsi, kirjasimme ylös, että haluamme seurata tämän muutoksen tuomia muutoksia ja millä tavalla tämä tilanne lähtee nyt kehittymään.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_423	Syntyhistorialtaan EU on rauhanprojekti.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_127	validation_424	Me ihmettelemme sitä, miksi täällä ei ole käsittelyssä nyt esitystä suomalaisten velvoittamisesta omistamaan suomalaisia osakkeita suoraan ja miksi ei ole esitystä näiden listaamattomien yhtiöiden osalta ja niiden poisjättämisestä tästä esityksestä vaan ainoastaan ponsi.	8
+http://ldf.fi/semparl/speeches/s2021_1_125_036	validation_425	Emmekä me ole yksin huoliemme kanssa.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_142	validation_426	À la ilmastonmuutos, à la ympäristöongelmat, à la joukkotuhoaseiden leviäminen, à la terrorismi, kansainvälinen rikollisuus ja niin edelleen — pandemiasta puhumme tänä päivänä.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_030	validation_427	Kun suuri valiokunta ilmaisee tukensa hallituksen päätökselle tarkastella EU-politiikkaa laajana kokonaisuutena ja koko vaalikautta koskevalla selonteolla, on tässä kannanotossa vahvistus edellä sanotulle päätöksenteon kansanvaltaisuudelle.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_180	validation_428	Sen vuoksi olisi tärkeää, että oikeudenmukaisuuden vuoksi ja tietenkin myös näiden perheiden toimeentulon vuoksi tämä korvaus palautettaisiin.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_166	validation_429	Silloin hyötyjänä on myös Suomi.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_430	”Eurooppa olemme me.”	0
+http://ldf.fi/semparl/speeches/s2018_1_169_019	validation_431	Joissakin maissa, joista nyt voidaan mainita esimerkiksi Japani, tähän väestöllisen huoltosuhteen haasteeseen on pyritty vastaamaan erityisesti teknologiaa ja automaatiota vahvistamalla myös julkisen sektorin puolella.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_168	validation_432	Sama kohtalo on todennäköisesti Euroopan keskuspankilla, talous‑ ja rahaliitolla.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_059	validation_433	[Vastauspuheenvuoropyyntöjä]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_158	validation_434	Sen saa tilapäisenä toimenpiteenä tehdä, mutta ne pitivät niitä kiinni.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_125	validation_435	On myös muistettava vuoden 2015 tapahtumat eli se, että ei se länsiraja Ruotsin puolellekaan aina niin kovin turvallinen ole.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_073	validation_436	Jos ja kun me toteutamme yhteisvastuuta lisääntyvässä määrin ja lisäämme EU:n byrokratiaa eli käytännössä siirrämme päätösvaltaa Eurooppaan, niin se ei kyllä ole ratkaisu mihinkään.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_081	validation_437	Tässä on viikonlopun aikana menty paljon eteenkinpäin, eli kehitys kehitty, ja esitys on hieman parantunut.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_040	validation_438	Kehityspoliittinen selonteko on yksi työkalu — se on arvokas työkalu, arvokas prosessi — mutta kaiken kaikkiaan, kuten ulkoministeri totesi ja kuten valiokunnan puheenjohtajakin sanoi, meidän pitää nyt yhdessä katsoa tätä kokonaisuutta, tehdä analyysi, tehdä tilannearvio ja yhdessä katsoa, miten Suomi ja miten me eri toimijat toimimme jatkossa, jotta Afganistanilla ja kaiken kaikkiaan koko maailmalla ja kansainvälisellä yhteisöllä ja Euroopan unionilla olisi se näkemys mutta etenkin se ote, miten me parannamme tulevaisuutta.	2
+http://ldf.fi/semparl/speeches/s2020_1_045_006	validation_439	Siinä ehkä vähän oikaistaan sitä ajattelua tai ajatellaan ehkä, että välttämättömyys tarkoittaa samalla sitä, että pitää ikään kuin mahdollisimman myöhään ja vasta viime tipassa tehdä toimia.	0
+http://ldf.fi/semparl/speeches/s2020_1_021_033	validation_440	Kampanjakatto voisi myös vaikuttaa siihen, että muut kilpailukeinot vaaleissa lisääntyvät: populistiset ulostulot ja alatyylinen kampanjointi saattaisivat lisääntyä, kuten olemme nyt esimerkiksi USA:ssa havainneet.	6
+http://ldf.fi/semparl/speeches/s2021_1_125_146	validation_441	Te vetoatte joka kerran näissä omissa puheissanne, että meillä on sopimus voimassa, esimerkiksi elvytyspaketti 1.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_192	validation_442	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_101	validation_443	Meiltä löytyy kyllä mustaa valkoisella täältä, mutta, arvoisa puhemies, täällä hallituspuolueet ja Turunen sanoivat, että tämä on ikään kuin normaalia vain, että istunnosta toiseen aina tulee uusia ponsia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_148	validation_444	Tämänhän ei pitänyt milloinkaan ja missään olosuhteissa ainakaan näillä perussopimuksilla olla mahdollista, mutta totta se on.	8
+http://ldf.fi/semparl/speeches/s2017_1_074_243	validation_445	Tarve tälle laille on tullut niin sanotusta hybridisodankäynnistä — elikkä sodankäynnistä, joka ei välttämättä tule julistuksella eikä päivämäärällä ja kellonajalla, että nyt alkaa sota, vaan pikkuhiljaa erilaisia keinoja käyttäen — jossa on tietenkin ihmisten ja joukkojen lisäksi myöskin mahdollista käyttää yhteiskunnan lamauttamista vaikkapa sähköverkkojen, energianjakelun tai liikenneinfran tai jonkin muun tuhoamisen tai heikentämisen osalta, mutta tässä yritetään puuttua nyt siihen kohtaan, että olisi kuitenkin tämmöinen jonkin verran organisoitunut joukko, joka sitten tulisi Suomen rajojen sisäpuolelle ja rupeaisi operoimaan.	6
+http://ldf.fi/semparl/speeches/s2020_1_021_033	validation_446	Vaikka demokratiaa kannattaa, ja mahdollisuutta osallistua vaaleihin ilman muuta kannatan, niin vaalirahakaton asettaminen ei ole aivan ongelmatonta tai ollenkaan niin ongelmatonta kuin voisi kuvitella.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_149	validation_447	Ensimmäinen asiahan meillä on se, että meidän arvopaperikeskuksellamme ei ole toimilupaa.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_024	validation_448	Näemme yhteisen projektin mahdollisuudet ja haasteet.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_131	validation_449	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_173	validation_450	Kyllä itse näen niin, että kun hybridisodankäynti on valitettavasti muodostunut tällaisen kansainvälisen voimapolitiikan uudeksi normaaliksi enemmänkin, niin enemmänkin rajavartiolaissa ja muissa lainsäädännöissä pitäisi olla niitä keinoja, millä Suomi pystyy riittävän voimakkaasti ja riittävän nopeasti reagoimaan, jolloin se meidän olemassa oleva lainsäädäntö sitten luo sellaisen pidäkkeen, ettei kukaan näitä keinoja, vaikkapa tässä tapauksessa tätä laajamittaista maahantuloa, käytä painostuskeinona ja hybridisodankäynnin aseena Suomea vastaan.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_154	validation_451	Me olemme joutuneet katsomaan EU-asetuksesta jokaisen pikku pilkunkin, että miten me tämän teemme, koska me teemme minimin siitä, mitä tarvitsee tehdä, ja loput, mitä halutaan, tehdään kansalliseen lainsäädäntöön.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_148	validation_452	Siksi me emme tietenkään suhtaudu siihen samalla tavalla kuin suhtauduimme silloin Stubbin esitykseen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_453	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_074_242	validation_454	Valiokunta toteaa, että Suomen ulko- ja turvallisuuspoliittinen toimintaympäristö on muuttunut ja tähän toimintaympäristön muutokseen on vastattava heti ja nämä epävakautta luovat erilaiset toimenpiteet on pystyttävä myös torjumaan tehokkaasti ja nopeasti.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_155	validation_455	Ja edelleen meillä on vahva tahto sen osalta, että Suomen kannattaisi edelleen tulkita sitä poikkeusta niin, että voidaan vaatia näitä suoran omistuksen malleja niin suomalaisilta yrityksiltä kuin sijoittajilta samalla tavalla kuin mitä Norjassa on tehty.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_045	validation_456	Yhteiskuntapolitiikan on tällöin tultava vastaan, jotta mahdollisimman harva ajautuisi vastentahtoiseen työttömyyteen ja toimeentulovaikeuksiin ja jotta mahdollisimman moni löytäisi uuden tehtävän.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_016	validation_457	Eurooppa olemme me, EU on jäsentensä vastuunkannon kaltainen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_133	validation_458	Nyt tässä vaiheessa otamme muutaman listapuheenvuoron, ja debattia voidaan tarpeen mukaan jatkaa myöhemmin.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_119	validation_459	Menettelytapa on ollut todella erikoinen.	8
+http://ldf.fi/semparl/speeches/s2021_1_125_138	validation_460	Aikoinaan, kun tähän liittyviä pykäliä EU:n perussopimuksissa on muotoiltu, ei olla tultu ajatelleeksi sitä, että joku diktatuurista vapautunut maa päästyään EU:n jäseneksi saattaisi oikeusvaltioperiaatteen suhteen lipsua taaksepäin.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_178	validation_461	Omaishoito on yhteiskunnallisesti taloudellisin ja usein sekä hoidettavalle että hoitajalle inhimillisin ja paras hoitomuoto.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_066	validation_462	[Harri Jaskari: Miten ne menee toiseen suuntaan?]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_463	[Satu Hassi: Ikärakenne!]	0
+http://ldf.fi/semparl/speeches/s2021_1_063_132	validation_464	— Ja edustaja Lohi.	0
+http://ldf.fi/semparl/speeches/s2021_1_124_213	validation_465	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_059	validation_466	Lisäksi ehdotetaan teknisiä muutoksia useaan lakiin.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_467	On varmaan ihan hyvä, että tällainen ponsi tässä nyt sitten huomenna hyväksyttäisiin.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_006	validation_468	Ympäristötuhojen ja ilmastonmuutoksen torjunnasta syntyy kyllä liiketoimintaa, ja kestävää kehitystä mahdollistaville yrityksille on tilausta.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_069	validation_469	Lopuksi tästä turvallisuuspolitiikasta, mihin muun muassa edustaja al-Taee kiinnitti huomiota, ja useat edustajat myös kokoomuksesta avasivat puheenvuoronsa tällä turvallisuusyhteisöajattelulla, ja se on kyllä mielestäni tässä ajassa erittäin tärkeää.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_018	validation_470	Koronaa tekosyynä käyttäen luotu niin sanottu elvytyspaketti oli uusi surullinen luku unionin sääntöperäisyyden pettämisessä.	5
+http://ldf.fi/semparl/speeches/s2021_1_124_204	validation_471	Ja kuten tässä edustaja Keto-Huovinen kertoi, todella EU:n tietosuoja ei tätä edellytä, ja itse asiassa ei edellytä perustuslakivaliokuntakaan, jos pitkille säilytysajoille on perusteita, niin kuin tässä nyt on.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_065	validation_472	Voi todellakin kysyä: miksi te edes tällaista väitätte?	7
+http://ldf.fi/semparl/speeches/s2021_1_131_178	validation_473	Edustaja Antero Laukkasen lakialoitteessa esitetään muutosta kunnan peruspalvelujen valtionosuudesta annettuun lakiin siten, että muun kuin kunnan järjestämästä perusopetuksesta maksettavaa valtionosuuden kotikuntakorvausta korotetaan niin, että se maksettaisiin täysmääräisenä kaikille opetuksenjärjestäjille.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_026	validation_474	Siksi ajatukset Euroopan omasta armeijasta eivät ole kannatettavia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_475	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2022_1_007_159	validation_476	Tämä tuo minulle rauhallisuutta muun muassa tässä ajankohtaisessa kansainvälisessä tilanteessa, esimerkiksi nyt, kun Venäjän toiminta on lisännyt jännitteitä Euroopassa ja myös lähialueillamme Itämerellä sekä suoraa sodan uhkaa Ukrainassa.	6
+http://ldf.fi/semparl/speeches/s2021_1_124_218	validation_477	Ainahan saadaan moni asia näyttämään sille, millekä se halutaan, eli sitä saa, mitä tilaa.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_178	validation_478	Vaikka hallituksen ensi vuoden talousarvio onkin avokätinen, on monesta kohtaa silti unohtunut tavallisten suomalaisten sekä monen erityisryhmän, kuten mielenterveyspotilaiden ja keliaakikoiden, tarpeet.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_142	validation_479	Miksi?	0
+http://ldf.fi/semparl/speeches/s2018_1_169_037	validation_480	Digitalisointi ja teknologia on jo tuttua vuodesta 1980 lähtien, ja ainakin nuoret ovat tämän ajan hermolla, siihen osanneet varautua.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_005	validation_481	Perustuslakivaliokunta painottaa, että jatkossa meidän tulee arvioida poikkeusolojen rajoitustoimenpiteiden terveydellisiä vaikutuksia ja hyötyjä, mutta myös niistä yhteiskunnalle aiheutuvia kokonaishaittoja perusoikeuksien näkökulmasta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_059	validation_482	Esityksessä ehdotetaan säädettäväksi uusi laki arvo-osuusjärjestelmästä ja kumottavaksi voimassa oleva samanniminen laki.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_167	validation_483	Kaikissa maissa ei tästä toiminnasta tällä avoimuudella perus- ja ihmisoikeuksien näkökulmasta keskustella.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_108	validation_484	Ja osaltaan tässä palataan siihen aiemmin käsittelemäämme maksujärjestelyyn, eli silloinhan päätimme, että sen korkoa laskettiin seitsemästä neljään, ja tässä hallituksen esityksessä lasketaan sitä edelleen kolmeen.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_035	validation_485	Ja sitten vielä kolme puheenvuoroa, Talja, Mäkipää ja Jarva.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_013	validation_486	Ensiksi sitoutetaan porukka siihen ja sitten tehdään se.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_005	validation_487	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_046	validation_488	Muutaman noston otin täältä selonteosta, jotka positiivisella tavalla tarttuivat, kun sitä luin.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_134	validation_489	[Puhemies: Kiitoksia!]	0
+http://ldf.fi/semparl/speeches/s2021_1_125_014	validation_490	Suomi on ollut EU:n jäsen melkein 27 vuotta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_125	validation_491	Hallitus korostaa vastavuoroisuutta samalla, kun syytää miljardikaupalla suomalaisten rahoja korruptoituneelle Etelä-Euroopalle.	7
+http://ldf.fi/semparl/speeches/s2021_1_125_126	validation_492	Tiedän, että hän on EU-kokouksissa tällä hetkellä, ja sen takia ehkä tämä keskustelu olisi voinut olla järkevää siirtää sellaiseen ajankohtaan, että pääministeri olisi ollut täällä paikalla, sillä me olisimme kaivanneet — ja uskon, että Suomen kansakin olisi — kaikkien näiden uutisten lisäksi, mitä nyt tässä viime viikkoina on ollut pääministeristä, ihan asiauutisointia hänen linjauksistaan, Eurooppa-politiikasta, talouspolitiikasta, siitä, mihin suuntaan Eurooppaa viedään.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_088	validation_493	Tämä on juuri se ongelma, kun hallitus on hämärässä yrittänyt runtata tätä läpi ilman sitä mahdollisuutta, jolla tämä asetus voitaisiin laittaa voimaan niin, että varmistaisimme riittävän tason julkisuuden, jotta nimenomaan viranomaisilla — poliisilla, syyttäjällä — olisi riittävät edellytykset puuttua.	6
+http://ldf.fi/semparl/speeches/s2021_1_131_186	validation_494	On se niin järkyttävää nähdä, että esimerkiksi energiaa ja muuta tuodaan nyt ulkomailta, ulkomaisilla rekoilla ehkä ajetaankin, totta kai, ja ulkomaisilla polttoaineilla, niin jotenkin tuntuu kummalliselta, että nyt tämä raha ja kaikki vyöryy tuonne muualle maailmaan, kun meidän pitäisi nimenomaan suosia suomalaista ja kotimaista juttua.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_040	validation_495	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_091_006	validation_496	Me emme tässä uusia käsittelyjä tarvitse, vaan valtioneuvosto voi tietysti toimivaltuutensa puitteissa harkita tätä asiaa sitten joustavasti, että saadaan kaikki ne suomalaiset ja suomalaisia avittaneet ihmiset, jotka turvaa tarvitsevat, suojaa tarvitsevat, sen piiriin.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_006	validation_497	Me kaikki varmaan voimme yhtyä niihin kiitoksiin, joita kuulimme äsken ulkoministeriltä koskien sitä käsittelytapaa, mikä täällä eduskunnassa nyt oli.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_007	validation_498	Toivon, että päätöksentekijöiltä tuleekin nyt viestiä, että opettajat pitävät yhteiskunnan pyöriä pyörimässä ja että ainakaan lomautuspuheisiin ei olisi kunnissa varaa.	2
+http://ldf.fi/semparl/speeches/s2020_1_092_115	validation_499	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_035	validation_500	— Edustaja Östman, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_501	Mutta se Suomi-poikkeus koskee sitä, että Suomen ei tarvitse Suomessa ottaa käyttöön hallintarekisteriä.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_244	validation_502	Tämä on todella tärkeää, kuten valiokuntakin tässä toteaa, että käytännön soveltamistilanteessa sen määritelmän tulee todella olla riittävän selkeä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_137	validation_503	Se nyt on ainakin selvä, ja voisitte siitä vaikkapa kiitoksen lausua.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_130	validation_504	Me on nähty sellaisia tilanteita, joissa esimerkiksi eduskunta on pystynyt hienosti tuomaan yhtenäisen kannan niin opposition kuin hallituksenkin riveistä ja sitä kautta on voitu sitten viedä kansallista etua eteenpäin, ja näin meidän pitäisi myöskin tässä kysymyksessä pystyä menettelemään.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_148	validation_505	Suomi reagoi, ei vaikuta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_506	Esimerkiksi se, miten vaikkapa se meidän hyvin arkinen työkalumme, puhelin, on muuttunut ja mihin kaikkeen sitä nykyään voi käyttää, on mielestäni hyvä ketju teknologian tuomassa muutoksessa.	1
+http://ldf.fi/semparl/speeches/s2021_1_091_034	validation_507	Aivan lopuksi toteamme sen, että tarvitaan todella huolellinen, syvällinen analyysi siitä, mikä Afganistanissa meni pieleen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_089	validation_508	Haluan vain sanoa sen, että ponnet mietintöön on aivan normaali käytäntö eduskunnassa ja ponsilla on merkitys.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_048	validation_509	Se on vahvasti tutkimuspohjaista, ja siinä opiskelija suunnittelee ja toteuttaa itse omaa oppimistansa ja tavallaan omistaa vaikkapa portfolion jossakin tietyssä ammatissa.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_119	validation_510	Ja kenen tarinan mukaan Suomen syyttäjälaitos toimii?	7
+http://ldf.fi/semparl/speeches/s2017_1_054_083	validation_511	Jos on EU:n jäsen, niin kyllä nämä EU:n jäsenasetukset tulee täysimääräisesti viedä läpi.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_173	validation_512	Tässä mielessä haluan, puhemies, vielä lyhyesti oman kantani esittää myös siihen, että kun nyt hallitus on aloittamassa valmiuslainsäädännön kokonaisuudistusta, niin mikäli katsotaan, että laajamittaisen maahantulon käyttäminen hybridisodankäynnin välineenä Suomea vastaan kuuluu valmiuslain taakse, niin sitä pitää aivan erityisesti kiirehtiä.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_158	validation_513	Ei se tarkoita, että olisivat rajat täysin kiinni, vaan on rajatarkastukset, ja nämä kuusi maata pitivät vuosia rajatarkastuksia yllä ehkä vastoin sitä, mikä on näiden sopimusten henki.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_115	validation_514	Kyllä se on kahden kauppaa.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_026	validation_515	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_124_216	validation_516	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_140	validation_517	Tässä mietinnön ensimmäisessä lausumaehdotuksessa mainittu lähdeveroprosentti on nyt täsmentymässä ennakonpidätykseksi ja sen arvo tarkentumassa 50 prosentiksi, millä turvataan rehellisten veronmaksajien etu.	0
+http://ldf.fi/semparl/speeches/s2021_1_063_147	validation_518	Ehkä tämän keskustelun perusteella kallistuisin enemmän tuonne edustaja Lohen näkemysten taakse.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_242	validation_519	Tämä aluevalvontalain muutos varmistaa nyt sen, että meidän sotilaillamme, Puolustusvoimilla ja rajavartijoilla, tarvittaessa on mahdollisuus toimia välittömästi, koska laki antaa siihen mahdollisuuden.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_109	validation_520	Kiitokset mietinnön esittelystä, puheenjohtaja.	0
+http://ldf.fi/semparl/speeches/s2021_1_091_022	validation_521	Mutta pitäisin tärkeänä ja jopa välttämättömänä, että puolustusvaliokunnalle annetaan jälkeenpäin selvitys siitä, minkätyyppisien riskien äärellä meidän omat joukkomme ovat.	2
+http://ldf.fi/semparl/speeches/s2018_1_169_009	validation_522	Ajatus toimeentulokaaresta lähtee siitä rohkeasta huomiosta, että lähes kaikkien suomalaisten toimeentulo koostuu vaihtelevasti erilaisista ansiotuloista ja tulonsiirroista.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_098	validation_523	Ja miksi ei tuoda tätä kokonaisuutta kerralla eduskuntaan niin, että näitä epäkohtia, jotka hallituspuolueiden edustajat itsekin näkevät tässä esityksessä — se käy lausumista ilmi — on korjattu lainsäädännössä, [Puhemies koputtaa] niin kuin kuuluu tehdä, jos haluamme pitää huolta laadukkaasta lainvalmistelusta?	5
+http://ldf.fi/semparl/speeches/s2017_1_054_066	validation_524	Kysynkin arvoisalta ministeriltä: Miksi Suomi kulkee taaksepäin, kun koko muu Eurooppa on kulkemassa kohti Suomen järjestelmää, ja miksi hyvää tarkoittavia toivomusponsia ei kirjattu itse lakiin?	5
+http://ldf.fi/semparl/speeches/s2021_1_125_128	validation_525	Tämä siksi, että Venäjälle sopii erittäin hyvin tilanne, jossa ”Euroopan unioni ei näe eikä tunnista pohjoisen kasvavaa merkitystä eikä aktiivisesti pyri rooliansa kasvattamaan”.	6
+http://ldf.fi/semparl/speeches/s2020_1_021_034	validation_526	Täältä pöntöstä saa sitten jatkaa, jos haluaa pidempään puhua, kuten tekee edustaja Mäkisalo-Ropponen.	0
+http://ldf.fi/semparl/speeches/s2022_1_007_155	validation_527	Valvonta on vahvaa, se on moniportaista.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_051	validation_528	Hyvinvointitaloudessa on tärkeää osata arvioida ja laskea myös näiden vaihtoehtoiskustannusten hinta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_148	validation_529	Rahaliitto on osoittautunut suureksi virheeksi, vaikka se onkin ilmeisen kivuliasta myöntää.	5
+http://ldf.fi/semparl/speeches/s2017_1_074_244	validation_530	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_115	validation_531	Me kyllä katsomme Marinin hallituksessa, että nimenomaan EU:n kautta meillä on mahdollisuus vaikuttaa esimerkiksi suomalaisten yritysten pärjäämiseen ja siihen, minkälaisia työpaikkoja meillä syntyy.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_006	validation_532	Tulisi arvioida huolella tämän Afganistanin tilanteen monisyisyys ja ennen kaikkea myöskin suomalaisten kannalta huolella se, mihin me olemme panostaneet niinkin voimakkaasti sekä kehitysyhteistyön että sotilaallisen kriisinhallinnan puolella, mitkä ovat olleet ne ongelmakohdat ja missä on parannettavaa jatkon varalle, ja myöskin se, minkälaisissa prosesseissa on oltu mukana.	2
+http://ldf.fi/semparl/speeches/s2020_1_092_110	validation_533	Näillä kahdella perusteella, eli ensinnäkin sillä, että tämä poikkeuksellinen kriisitilanne tarvitsee toimia yritysten maksuvalmiuden tukemiseen näillä verotusmenettelyjoustoilla ja nämä järjestelyt eivät saa aiheuttaa kohtuuttomasti kustannuksia yrityksille, ja koska monissa muissakin maissa ollaan päädytty siihen, että tätä viivästyskorkoa on viety nollaan — elikkä ihan siihen viitekorkoon, joka tällä hetkellä siis on nolla — ja sitten toisaalta sillä perusteella, että on kohtuutonta maksaa korkoa sellaisilta päiviltä, jolloin rahaa ei ole hallussa, todella esitämme, että tämä viivästyskorko lasketaan sitten sinne viitekorkoon.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_125	validation_534	Kiitos, arvoisa herra puhemies.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_010	validation_535	Framtidsutskottet kommer med en viktig analys om vad som pågår i vårt samhälle.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_536	Kun tämä on uusi järjestelmä ja tähän voi liittyä näitä aukkoja, niin siltä varalta, että se ei välttämättä ole niin hirveän vedenpitävä tässä alkuvaiheessa — ja yhdellä kertaa kuittaan — on hyvä, että nämä erilaiset ponnet täällä nyt hyväksytään, koska ne kertovat siitä samasta tahtotilasta:	0
+http://ldf.fi/semparl/speeches/s2017_1_054_087	validation_537	Edustaja Rinteeltä kysyn nyt kuitenkin:	0
+http://ldf.fi/semparl/speeches/s2017_1_054_134	validation_538	Ja se muuttaa sitä paremmaksi ja hyväksyttäväksi.	2
+http://ldf.fi/semparl/speeches/s2017_1_074_242	validation_539	Maailmalla on levinnyt ilmiö, jossa toisen maan alueelle tunkeutuu sotilaita tai sotilasmaisesti pukeutuneita henkilöitä, näitä vihreitä miehiä, ja näistä ilmiöistä olemme viime päivien uutisten aikana saaneet lisää tietoa muun muassa Ukrainasta.	6
+http://ldf.fi/semparl/speeches/s2021_1_131_184	validation_540	Lapissa, pitkien välimatkojen maakunnassa, tämä on ihan kohtuuton, tämä polttoaineen hinta.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_004	validation_541	Tämä jos mikä avaa mahdollisuuksia suomalaiselle osaamiselle.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_129	validation_542	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_158	validation_543	Edellisessä puheenvuorossani totesin tämän digitalisaation osalta EU:n täydellisen epäonnistumisen näiden parin kolmen vuosikymmenen aikana, jolloin se on kehittynyt globaalisti voimakkaasti.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_119	validation_544	Me tiedämme, että tämä poikkeus on sidottu nykyiseen laintilaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_119	validation_545	Maailma on täynnä tällaisia tarinoita ja tällaista suostuttelua, ja medialukutaitoinen näkee sellaisen läpi.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_093	validation_546	Toivon, että näillä tätä saataisiin parannettua, mutta moite hallitukselle: [Puhemies koputtaa] nämä asiat olisi toki pitänyt tuoda lainsäädännössä.	5
+http://ldf.fi/semparl/speeches/s2018_1_169_018	validation_547	Arvoisa rouva puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_063_144	validation_548	Edustaja Kontula.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_004	validation_549	Ja paine koko ajan kasvaa, kun tässä poikkeusolojen keskellä elämme.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_124	validation_550	Tiedostamme tämän, ja oikeastaan tämä koko keskustelu on pyörinyt tämän tiedostamisen ympärillä, ja hallituspuolueet ovat yhdessä hakeneet siihen loppuun asti keinoja, joilla me teemme siitä mahdollisimman kannattamattoman.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_006	validation_551	Samalla voidaan kyllä pitää huolta myös ympäristöstä.	2
+http://ldf.fi/semparl/speeches/s2021_1_091_027	validation_552	— Edustaja Vähämäki, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_004	validation_553	Työ ei lopu, vaan työtehtävät muuttuvat.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_153	validation_554	Kuten edustaja Turunen esimerkillään osoitti, on asiasta valitettavasti suurta epäselvyyttä myös monien — tai ainakin joidenkin — poliitikkojen keskuudessa, joten ei ole ihme, että tavallinen kansalainenkin, joka ei näitä asioita päivittäin seuraa, voi olla hämillään.	5
+http://ldf.fi/semparl/speeches/s2022_1_007_151	validation_555	Tämä asiakokonaisuus liittyy erityisesti niin sanottuun palomuurisäätelyyn, joka tiedustelulain sisältä löytyy.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_020	validation_556	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_125_051	validation_557	Tämä lista löytyy valtioneuvoston sivuilta.	0
+http://ldf.fi/semparl/speeches/s2017_1_074_242	validation_558	Perustuslakivaliokunta on asiasta keskustellut, keskusteli nimenomaan näiden voimakeinojen käytöstä ja siitä, miten ne sijoittuvat Suomen perustuslakiin ja sen pykäliin ja kirjaimeen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_083	validation_559	Viittaan Skinnarin aiempaan puheenvuoroon, kun hän kertoi neljä asiaa, mitkä kannattaa tästä arvopaperikeskusasetuksesta ottaa.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_145	validation_560	Heillä on tältä osin omat Eta-sopimuksensa, mutta se ei ole määräävää, kansallisen lainsäädännön yli menevää asetussääntelyä, joka tulee EU:sta.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_051	validation_561	Ja teettämässämme selvityksessä tulevaisuusvaliokunnalle on suositeltu erityisesti GPI:n eli aidon kehityksen indikaattorin pilotointia, ja sen toivon seuraavan hallituksen ottavan omakseen.	2
+http://ldf.fi/semparl/speeches/s2020_1_045_011	validation_562	Poikkeustilanteessa eduskunnalla on mahdollisuus rajoittaa ihmisten perus- ja ihmisoikeuksia, mutta vain sen verran, kun on aivan välttämätöntä jonkun tavoitteen saavuttamiseksi, tässä tapauksessa ihmisten terveyden ja turvallisuuden turvaamiseksi.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_149	validation_563	Jos ei tehdä mitään, meillä ei ole Suomessa arvopaperikeskusta, suomeksi sanottuna.	0
+http://ldf.fi/semparl/speeches/s2020_1_092_110	validation_564	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_078	validation_565	Sitten toinen asia: Veronkierto on rikos.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_140	validation_566	Tämä ajatus kuulostaa mielestäni hyvin vieraalta.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_136	validation_567	Muun muassa näistä syistä johtuen me perussuomalaiset katsoimme välttämättömäksi laatia selonteosta vastalauseen suuren valiokunnan mietintöön.	5
+http://ldf.fi/semparl/speeches/s2021_1_125_134	validation_568	Niinpä silloin kun liityttiin Euroopan yhteisöön, turvallisuus nähtiin ensi sijassa idän suunnalta eroon pääsemisenä, ja näin sitten kansanäänestyksessä saatiin kovan propagandan myötä kansan enemmistö liitoksen kannalle.	0
+http://ldf.fi/semparl/speeches/s2021_1_125_152	validation_569	Se on pienen maan etu.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_139	validation_570	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_074_243	validation_571	Tämä lakiesitys aluevalvontalain muutoksesta kuulostaa sillä lailla kummalliselta, koska itse ainakin mietin, miten määritellään semmoinen joukko, joka ei ole sotilaallisesti tunnuksin osoitettavissa, mutta valiokunta on tyytynyt tähän lausuntoon ja todennut, että se on suhtkoht hyvä määritelmä, mikä tänne yksityiskohtaisiin perusteluihin on kirjoitettu, että sotilaallisen ryhmän tunnuspiirteitä voidaan katsoa olevan esimerkiksi sellaiset seikat, että joukko on kahden tai useamman henkilön muodostama, tietyn ajan koossa pysyvä, rakenteeltaan selvästi organisoitunut ja yhteisen johdon alainen tai komentosuhteessa vieraan valtion asevoimiin tai muutoin vieraan valtion ohjauksessa.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_143	validation_572	Itse asiassa koko tämän asetuksen toinen tärkeä tukijalka onkin tässä — se huono tukijalka, mutta se nyt vaan säädettiin — eikä siellä ole sellaista poikkeusta.	5
+http://ldf.fi/semparl/speeches/s2021_1_124_214	validation_573	Näinhän ei ole, vaan kyseessä oli se, että kun te itse perustelitte, vastaperustelitte niitä meidän argumenttejamme, niin te otitte ainoaksi argumentoinnin lähtökohdaksi, käytännössä teidän pihvinne oli se, että te luotatte ministeriön valmisteluihin, ja silloin se on ainoa argumentti, jota vastaan pitää käydä.	6
+http://ldf.fi/semparl/speeches/s2021_1_124_202	validation_574	Kyseisiä tietoja voidaan pitää tarpeellisina vielä pitkään niiden rekisteröinnin jälkeen.	0
+http://ldf.fi/semparl/speeches/s2018_1_169_044	validation_575	Jotta näin ei pääsisi käymään ja tekoäly pysyisi todellakin tukiälyn roolissa, meidän on varmistettava, että ihmisen ja koneen työnjakoa ja automatisoidun päätöksenteon rajoja tarkkaillaan jatkuvasti.	2
+http://ldf.fi/semparl/speeches/s2021_1_125_078	validation_576	Edustaja Immonen.	0
+http://ldf.fi/semparl/speeches/s2020_1_045_015	validation_577	Tämä asetus puuttuu merkittävällä tavalla elinkeinovapauteen ja omaisuudensuojaan.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_190	validation_578	Mitenkä ihmeessä voi olla semmoinen systeemi, että tässä välillä on tämmöinen systeemi, minnekä häviää ja missä muuttuukin tarkoitus ja kunnissa voidaan ne rahat käyttää johonkin muuhun tarkoitukseen, vaikka johonkin tien ylläpitämiseen?	5

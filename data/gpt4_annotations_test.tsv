@@ -1,0 +1,252 @@
+speech_id	sentence_id	text	label
+http://ldf.fi/semparl/speeches/s2021_1_131_161	test_1	Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 13. asia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_161	test_2	Käsittelyn pohjana on maa- ja metsätalousvaliokunnan mietintö MmVM 15/2021 vp.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_161	test_3	Nyt päätetään lakiehdotusten sisällöstä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_161	test_4	— Avaan yleiskeskustelun.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_161	test_5	Edustaja Myllykoski, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_6	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_7	Kun mietintöä käsiteltiin, en päässyt olemaan siinä mukana, ja nyt haluan käyttää sen puheenvuoron, millä haluan korostaa, että tässä mietinnössä, mikä tehtiin ja oli yksimielinen, oli erittäin hyvä, analyyttinen valiokuntakäsittely ja me pyritään tällä nimenomaan puuttumaan myös tähän ikävään pentutehtailuun ja likaiseen ulkomaalaiseen koirakauppaan, mitä tässä maassa harjoitetaan.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_8	Erittäin hyvä hallituksen esitys, ja toivottavaa olisikin, kuten tuossa meidän pohdinnoissa on ollut, että järjestelmää kun rakennetaan, niin tässä vaiheessa sitten toivottavasti ministeriö kun lähtee kilpailuttamaan, minkälainen rekisterinpitäjä tulee, kuka sen sitten voittaakin, niin tässä kilpailutuksessa olisi jo huomioitu se, että eläinten hyvinvointilaissa on asetettu päämäärä myös kissojen rekisteröinnille, niin että se olisi vuonna 26 maalissa, ja että jo tässä vaiheessa rekisterinpitäjältä edellytettäisiin, että ohjelmisto taipuu myös sitten eläinten hyvinvointilain voimaantuloon, siten että rekisteri taittuu myös kissojen rekisterin ylläpitämiseen.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_9	Mitä meidän lausumassa oli, niin on tärkeää, että vuoden 24 loppuun mennessä tämän lain vaikutuksia selvitetään sillä tavoin, että nähdään, onko tämän lain tarkoituksenmukaisuus täyttynyt, eli olemmeko pystyneet puuttumaan pentutehtailuun ja laittomien koirien ja lemmikkien maahantuontiin.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_10	Silloin varmasti saamme myös Tullilta ja muiltakin tahoilta selvityksen.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_11	Se on ministeriölle totta kai oma taakkansa, mutta hyvin organisoidulla tehtävänannolla varmasti saamme tietoomme, onko pystytty tekemään niin, että me estämme tässä maassa sen, että rotukoiria astutetaan jokaisesta juoksusta, joka toinen pentue rekisteröidään ja joka toinen pentue myydään läpi käsien ilman rekisteröintejä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_162	test_12	Vähän pohdin aiemmin, kun tätä käsiteltiin, että se eläinlääkäreitten ilmoitusvelvollisuus voi olla eläinten hyvinvoinnin ja hoidon kannalta negatiivinen, mutta lopputuloksena kyllä olen sitä mieltä — juuri niin kuin me olemme mietintöä laatineet — että kun eläinlääkäreille tulee ilmoitusvelvollisuus, silloin voimme puuttua tähän laittomaan pentutehtailuun.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_163	test_13	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_163	test_14	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_163	test_15	— Edustaja Kalmari poissa.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_16	— Edustaja Elomaa, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_17	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_18	Vihdoinkin täällä — jess! — eläinten tunnistamiseen ja rekisteröintiin liittyvä laki.	1
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_19	Vuonna 2020 jättämäni lakialoite 47, lakialoite laiksi koirien tunnistamisesta ja rekisteröinnistä, käsitellään yhdessä hallituksen esityksen 101/2021 kanssa.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_20	Vaikka lakialoitteeni ei mennyt läpi sellaisenaan, on tärkeintä, että itse asia tulee etenemään.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_21	Eli käytännössä koirille on tulossa sirut ja koirat tullaan jatkossa rekisteröimään.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_22	Olen tehnyt aiheesta ensimmäisen kirjallisen kysymykseni jo vuonna 2017.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_23	Vuonna 2020 tein koirien tunnistamista ja rekisteröintiä koskevan lakialoitteen lisäksi toimenpidealoitteen, jonka aihe oli kissojen rekisteröiminen.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_24	Se olisi nimittäin erittäin tarpeellinen uudistus ja auttaisi esimerkiksi tänä syksynä otsikoihinkin päätyneiden kissapopulaatioiden kontrolloimisessa.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_25	Toivottavasti asia etenisi myös kissojen kohdalla työn alla olevan uuden eläinten hyvinvointilain yhteydessä.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_26	Tarve on suorastaan huutava, sillä kissojen kohteluun liittyviä ongelmia esiintyy niin paljon.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_27	Rekisteröinnistä ja tunnistusmerkinnästä seuraa paljon hyvää.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_28	Esimerkiksi laiton eläinkauppa, maahantuonti ja pentutehtailu vaikeutuvat, löytöeläimet saadaan palautettua helpommin omistajilleen ja ennen kaikkea vastuullinen eläintenpito ottaisi suuren askeleen eteenpäin.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_29	Eli peukku sille, että koirien kohdalla edistystä tapahtuu, ja vielä kun sama saataisiin koskemaan kissoja, niin olisin oikein tyytyväinen.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_30	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_31	Varsinainen hallituksen esitys koskee eläinten tunnistamista ja rekisteröintiä sekä niihin liittyviä lakeja.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_32	Pidän todella tärkeinä ihmisten ja eläinten terveyden suojelemista, eläinten hyvinvoinnin edistämistä sekä elintarviketurvallisuuden kehittämistä eläintenpitopaikkojen ja eläinten kanssa tekemisissä olevien toimijoiden kontrolloimisessa.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_33	Myös eläinten alkuperän ja siirtojen valvomisen tehostaminen on tervetullut uudistus.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_34	Tällä hetkellä eläinten epämääräiset siirrot ovat EU-alueella merkittävä ongelma, ja niihin tuleekin puuttua nykyistä tiukemmin.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_35	Lain soveltamisalan laajentaminen koskemaan myös lemmikkieläinten hyvinvointia ja lemmikkieläinten jäsenvaltioiden välisiä kuljetuksia on myös tervetullut uudistus — onhan laiton eläinkauppa Euroopan järjestäytyneen rikollisuuden yksi keskeisimmistä tulonlähteistä.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_36	Se pitää saada kuriin niin harmaan talouden torjunnan kuin eläinten oikeuksien nimissä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_37	Tämä kehitystyö on ollut vuosikausia erittäin heikkoa EU:n tasolla.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_38	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_131_164	test_39	Lopuksi vielä kiitän edustaja Myllykoskea erittäin ansiokkaasta puheenvuorosta siitä, mitä meidän pitää tehdä tulevaisuudessa: valmistella lakeja eläinten hyvinvoinnin eteen jo seuraavalle hallitukselle.	3
+http://ldf.fi/semparl/speeches/s2021_1_131_165	test_40	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_165	test_41	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_42	— Edustaja Hoskonen, olkaa hyvä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_43	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_44	On aivan oikein, että tämä pentutehtailu, mitä tässäkin maassa harjoitetaan valitettavasti, saadaan kuriin tällä uudella lainsäädännöllä, josta edustaja Elomaa äsken suuresti riemuitsi.	1
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_45	Näköjään on edustaja Elomaa perehtynyt asiaan syvällisesti, ja se on hieno asia, että tämä epäkohta saadaan vihdoin ja viimein järjestykseen.	1
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_46	Tähän pentutehtailuun liittyy sitten se ikävä ilmiö, kuten kaikki tiedämme, että ulkomailta tuodaan esimerkiksi koiria tänne, ja just luin lehdestä, että eräälle paikkakunnalle oli tuotu ulkomailta koira, jolla oli sitten joku tämmöinen sen suussa oleva vakava sairaus, joku mato tai mikä se nyt olikaan, mutta kuitenkin sieltä tuodaan semmoisia tauteja Suomeen näiden tuontieläinten mukana.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_47	Kun niitä ei kontrolloi kukaan eikä tarkasta kukaan, niin sieltä leviää sitten meidän omiin, täällä jo oleviin terveisiin koiriin näitä tauteja.	5
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_48	Tällä asialla ei kannata leikkiä, koska jos ihmisillä, jotka tällaista toimintaa harjoittavat, on perheessä esimerkiksi lapsia ja sitten tällainen koira tulee sinne, niin sehän voi levittää sen taudin vaikka perheen pienimpiin, ja se voi olla jopa hengenvaarallinen.	6
+http://ldf.fi/semparl/speeches/s2021_1_131_166	test_49	Tällä asialla on tässä maassa leikitty, mutta onneksi tämä laki nyt tulee, ja toivon tälle lakiesitykselle parhainta mahdollista menestystä.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_167	test_50	Mahdollisimman äkkiä voimaan, että saadaan tämä epäkohta pois päiväjärjestyksestä.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_167	test_51	Kiitoksia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_52	— Ministeri Leppä, 1 minuutti.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_53	Kiitoksia, arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_54	Kiitos maa- ja metsätalousvaliokunnalle hyvästä mietinnöstä ja siihen liittyvistä ponsista.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_55	On monta asiaa, jotka tässä yhtyvät.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_56	Tämä rekisteröintivelvollisuus ja sen laajentaminen, ulottaminen myöskin sitten aikanaan kissoihin, kunhan ensin saadaan koirat sinne, on äärimmäisen tärkeää sekä sen pentutehtailun osalta, että me sen saamme kuriin, että laittoman tuonnin osalta, ja myöskin eläinten hyvinvoinnin osalta se on äärimmäisen tärkeää, kun me tiedämme silloin omistajan.	2
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_57	Ja myöskin tämä on kansanterveyskysymys, ihan niin kuin edustaja Hoskonen tässä viimeksi ja moni muu teistä tämän saman asian toi esille.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_58	On äärimmäisen tärkeää, että me pidämme huolta myöskin siitä, että näiden tänne tuotavien eläinten mukana ei leviä sellaisia tauteja, jotka ovat meille vaarallisia, jopa hengenvaarallisia.	6
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_59	Me haluamme säilyttää tämän hyvän eläintautitilanteen Suomessa, emmekä salli, että sitä uhataan laittomalla tuonnilla.	6
+http://ldf.fi/semparl/speeches/s2021_1_131_168	test_60	Tämä on myös harmaan talouden torjuntaa mitä suurimmassa määrin, eli tässä monta asiaa yhtyy.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_169	test_61	Kiitos eduskunnalle erittäin hyvästä työstä ja täydennyksestä hallituksen esitykseen.	3
+http://ldf.fi/semparl/speeches/s2021_1_131_169	test_62	Lähetekeskustelua varten esitellään päiväjärjestyksen 14. asia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_169	test_63	Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainvaliokuntaan.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_169	test_64	Lähetekeskusteluun varataan enintään 30 minuuttia.	0
+http://ldf.fi/semparl/speeches/s2021_1_131_169	test_65	Asian käsittelyssä noudatetaan aikataulutettujen asioiden osalta sovittuja menettelytapoja.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_053	test_66	Toiseen käsittelyyn esitellään päiväjärjestyksen 14. asia.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_053	test_67	Nyt voidaan hyväksyä tai hylätä lakiehdotukset, joiden sisällöstä päätettiin ensimmäisessä käsittelyssä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_053	test_68	Asia pantiin pöydälle 10.5.2017 pidetyssä täysistunnossa tähän täysistuntoon.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_69	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_70	Tänään vielä keskustellaan EU:n arvopaperikeskusasetuksesta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_71	Todettakoon, että kyseinen asetus on ollut voimassa vuodesta 2014 lähtien ja menee kansallisen lainsäädännön yli.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_72	Todetaan myös, että tässä asetuksessa on poikkeuslauseke, artikla 38, luku 5, joka tarkoittaa sitä, että jos kansallisvaltioilla aikaisemmin ei ole ollut käytössä hallintarekisteriä, asetus ei velvoita ottamaan hallintarekisteriä käyttöön.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_73	Suomessa ei ole ollut hallintarekisteriä käytössä, eikä Suomeen tule hallintarekisteriä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_74	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_75	Mutta mennään päivän epistolaan.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_76	Minä olen tänään jättänyt keskuskansliaan yhden ponnen tarkistukseen ja yhden uuden ponnen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_77	[Antti Lindtman: Olikin tarkistettavaa!]	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_78	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_79	Arvopaperit, joilla käydään kauppaa kauppapaikoilla, on EU-asetuksen mukaan liitettävä arvo-osuusjärjestelmään.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_80	Kansallisessa lainsäädännössä on kuitenkin mahdollista liittää arvo-osuusjärjestelmään myös sellaisia arvopapereita, joilla ei käydä kauppaa kauppapaikoilla.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_81	Tällaisia arvopapereita kutsutaan listaamattomiksi arvo-osuuksiksi.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_82	EU-asetuksessa säädetty liikkeeseenlaskijan valintaoikeus koskee vain yhtiöitä, joiden liikkeeseen laskemilla arvopapereilla käydään kauppaa kauppapaikoilla.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_83	Tämä tarkoittaa sitä, että kansallisesti on mahdollista säätää asetuksesta riippumatta, että listaamattoman arvo-osuuden liikkeeseenlaskija ei voisi valita ulkomaista arvopaperikeskusta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_84	Jo voimassa olevan lain nojalla vieraan pääoman ehtoisten arvopaperien liikkeeseenlaskijat saattavat valita usein ulkomaisen arvopaperikeskuksen, sillä sijoittajakunta on usein kansainvälistä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_85	Vieraan pääoman ehtoisten arvopaperien omistus ei ole yleisöjulkista.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_86	Jos arvopaperilla ei käydä kauppaa kauppapaikalla, voidaan kuitenkin suhtautua epäilevästi ulkomaisen arvopaperikeskuksen halukkuuteen ottaa tällainen liikkeeseenlaskija asiakkaakseen.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_87	Saavutettavat hyödyt jäisivät todennäköisesti olemattomiksi suhteessa kustannuksiin.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_88	Kun voimassa olevan lain mukaan vieraan pääoman ehtoisen arvopaperin liikkeeseenlaskijan oikeutta valita ulkomainen arvopaperikeskus ei kuitenkaan ole rajoitettu, tulisi mahdollisen listaamattoman arvo-osuusjärjestelmään liitetyn arvo-osuuden liikkeeseenlaskijan valintaoikeuden rajoituksen koskea ainoastaan osakkeita.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_89	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_90	Sanotaan nyt tämä edellä puhuttu sitten selkokielellä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_91	EU-asetus ei vaadi suomalaisten listaamattomien yhtiöiden oikeutta valita arvopaperikeskus, eikä tämän vuoksi meidän tarvitse sallia näiden yhtiöiden käyttää ulkomailla hallintarekisteriä.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_92	[Antti Lindtman: Hyvä, että selkisi!]	4
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_93	Tämän vuoksi esitän lausuman talousvaliokunnan mietintöön:	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_94	Eduskunta edellyttää, että hallitus ryhtyy viipymättä valmistelemaan lainsäädäntöä, jonka nojalla kielletään suomalaisen listaamattoman osakeyhtiön osakkeiden liittäminen ulkomaiseen arvo-osuusjärjestelmään.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_95	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_96	Talousvaliokunnan mietinnön toinen ponsi kaipaa mielestäni lisäksi pienen tarkentavan muotoilun, joka on vain yhden yhdyssanan toisen osan muuttamista.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_97	Kun mietinnön ponnessa sana on "toteuttamismahdollisuudet", olisi se syytä kirjoittaa lopullisessa ponnessa muotoon "toteuttamistavan".	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_98	Tämä tarkentaa sitä, mitä eduskunta edellyttää valtioneuvostolta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_99	Uskon ja tiedän, että toteuttamistapoja on turvata myös ulkomailta suoran omistuksen tasoinen omistustietojen julkisuus.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_054	test_100	Tämän vuoksi esitän ponnen 2 tilalle ponnen:	0
+http://ldf.fi/semparl/speeches/s2017_1_054_055	test_101	Puhujalistalta otetaan puheenvuorot edustajilta Andersson, Ihalainen, Skinnari ja Mölsä, ja sitten debattia, mikäli tarvetta on.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_102	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_103	Palaamme jälleen hämärärekisterin käsittelyyn, tällä kertaa onneksi päivänvalossa.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_104	Edustaja Kulmala on mielestäni kiteyttänyt tämän esityksen ongelmallisuuden täydellisesti todetessaan, että "minua ei ole valittu eduskuntaan edistämään rikoksia vaan estämään niiden tekemistä".	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_105	Siitähän tässä edelleen on pohjimmiltaan kyse.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_106	Suomessa voisimme halutessamme pitää kiinni suoran omistuksen mallista, mutta hallitus haluaa sen sijaan tämän porsaanreiän kautta luopua tästä mallista, mikä tarkoittaisi veronkierron, korruption ja sisäpiirisuhmuroinnin helpottumista.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_107	Kuten hyvin tiedämme, tämä lakiesitys oli talousvaliokunnan käsittelyssä vuoden.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_108	Uudistuksen taustalla oleva EU:n arvopaperiasetus ja EU-komission sen soveltamisesta Suomelle antamat kommentit ovat tämän koko ajan olleet entisellään.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_109	Ainoa asia, joka tämän vuoden aikana on muuttunut, on perussuomalaisten kanta.	8
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_110	Joulukuussa edustaja Turunen talousvaliokunnan puheenjohtajana voimakassanaisesti ilmoitti, ettei Suomen EU-sääntöjen puitteissa tarvitse muuttaa lainsäädäntöämme ja hyväksyä omistusten piilottamista hallintarekisteriin ulkomaille vaan että Suomi voi edelleen vaatia suomalaisilta suoraa omistusta.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_111	Jos Suomi sallii hallintarekisteröinnin ulkomaiden kautta, se vaikeuttaa sisäpiirikauppojen ja muiden talousrikosten selvittämistä sekä vähentää verotuksen varmuutta ja oikeudenmukaisuutta, totesi edustaja Turunen tuolloin.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_112	Kehysriihen alla Turusen ja perussuomalaisten johdon kanta muuttuikin päinvastaiseksi.	8
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_113	Tämän jälkeen olemme kuulleet, että aiemmat tulkinnat olivat vääriä, että EU-asetus vaatiikin Suomea mahdollistamaan hämärärekisteröinnin.	8
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_114	Muistutan kuitenkin, että mitään uutta sovellus- tai tulkintaohjetta ei EU:sta tällä välillä tullut.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_115	Norjakin katsoo yhä arvopaperiasetuksen sallivan heidän edellyttämänsä suoran omistuksen mallin, joten sieltäkään suunnasta ei uutta tietoa ole tippunut.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_116	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_117	Talousvaliokunnan mietinnössä hallituspuolueet itse tunnistivat, että lakiesitykseen liittyy vakavia avoimuuden puutteesta johtuvia ongelmia.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_118	[Kaj Turunen: Ne nyt korjataan!]	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_119	He eivät kuitenkaan halunneet korjata niitä tai palauttaa esitystä valmisteluun vaan esittivät ainoastaan toiveensa lausumien muodossa.	2
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_120	[Kaj Turunen: Koska ne on erilaisia!]	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_121	Kun oppositio, media ja kansalaiset kiinnittivät huomion lausumien onttouteen, muuttuivat alkuperäiset lausumat yhtäkkiä riittämättömiksi myös perussuomalaisille.	8
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_122	[Antti Lindtman: Juuri näin!]	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_123	Hallituksen pikaisena hätäratkaisuna neuvottelema uusi ratkaisu 50 prosentin ennakonpidätyksestä ei ratkaise tämän esityksen ongelmia.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_124	Sakkovero tarkoittaisi silti, että hallintarekisteröinti ulkomaalaisten arvopaperikeskusten kautta olisi mahdollista ja sallittua suomalaisille.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_125	Omistusten piilottaminen olisi myös edelleen mahdollista.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_126	Mikäli henkilö syystä tai toisesta, esimerkiksi korruptioepäilyn takia, haluaa piilottaa omistuksiaan, hän tuskin välittää tästä sakkoverosta.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_127	Sitä on myös mahdollista kiertää joko ketjuttamalla omistusta tai myymällä omistuksia ennen osingonjakoa, jolloin saa verovapaita luovutusvoittoja.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_128	Ennakonpidätys ei myöskään tuo yleisöjulkisuutta.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_129	Tällä hetkellä Suomen suoran omistuksen malli takaa tietoja osakeomistuksista myös muille kuin veroviranomaisille, kuten poliisille ja tutkiville toimittajille.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_130	Tältä osin kyse on siis pelkästä mediapelistä.	7
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_131	Vielä oudompia käänteitä ja piirteitä tämä asia sai tänään, kun valiokunnan puheenjohtaja vielä tässä käsittelyvaiheessa jättää uusia lausumaesityksiä, joilla halutaan isoja muutoksia lainsäädäntöön.	8
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_132	Herää tietenkin kysymys, miksi näitä samoja asioita ei edistetty valiokuntavaiheessa tai sen vuoden aikana, jolloin hallituksella olisi ollut aikaa valmistella juuri näitä muutoksia, mitä valiokunnan puheenjohtaja nyt lausumien muodossa peräänkuuluttaa.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_133	[Eduskunnasta: Hyvä kysymys!]	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_134	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_135	Hallitus on myös toistuvasti vedonnut kiireeseen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_136	Toistan vielä, että tämä laki makasi talousvaliokunnassa vuoden.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_137	Tuona aikana esittämämme ja talousvaliokunnankin vaatimat muutokset olisi hyvin ehditty valmistella.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_138	On totta, että arvopaperikeskusten pitää pystyä hakemaan toimilupaa syyskuussa, mutta tätä varten kuitenkin riittäisi, että hallitus päättäisi toimilupaviranomaisen ja säätäisi loput lakimuutoksista sitten, kun omistuksen avoimuuden ja tiedonsaannin turvaavat esitykset ovat valmiita.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_139	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_140	Kuten olemme todenneet, tämä esitys tulisi hylätä ja palauttaa valmisteltavaksi niin, että se vähintään turvaa ja mieluummin parantaa omistusten nykyistä avoimuutta ja verotuksen tehokkuutta.	5
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_141	Yhtiöillä tulisi olla velvollisuus tunnistaa omistajansa ja toimittaa niitä koskevat tiedot reaaliaikaiseen julkiseen rekisteriin, jollainen Suomessa tulisi muutenkin valmistella rahanpesulainsäädännön nojalla.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_142	Tunnistaminen mahdollistaisi myös oikean lähdeveron perimisen.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_143	Tiedot osingoista ja myös myyntivoitoista tulisi toimittaa suoraan verottajalle.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_144	Lisäksi suomalaiset tulisi sanktion uhalla velvoittaa omistamaan suomalaisia osakkeita suoraan.	6
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_145	Olemme useaan otteeseen saaneet kuulla, kuinka edustaja Kankaanniemellä on ennakkoperintäponnesta oikein kirjallinen kuittaus hallituskumppaneilta.	7
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_146	Samaan aikaan on kuitenkin vallinnut aika laaja hiljaisuus muiden lausumien osalta, ja herää tietenkin kysymys, tarvitaanko kirjallista kuittausta hallituskumppaneilta jokaisen lausuman kohdalla, jotta voimme olla varmoja siitä, että lausumissa esitettyyn lainvalmisteluun myöskin ryhdytään.	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_147	[Antti Lindtman: Onko nyt uudet paperit Kankaanniemellä?]	0
+http://ldf.fi/semparl/speeches/s2017_1_054_056	test_148	Ennen kuin näemme kirjalliset takuut näiden kaikkien lausumien mukaisten lakien valmistelusta, on vaikeaa ottaa todesta mitään hallituksen vakuutteluita veronmaksun oikeellisuuden tai omistustietojen avoimuuden tärkeydestä, varsinkaan kun tämä sama hallitus ei ole osoittanut erityistä kunnianhimoa muiden harmaata taloutta suitsivien, läpinäkyvyyttä lisäävien ja veronkiertoa vaikeuttavien lakien edistämisessä.	6
+http://ldf.fi/semparl/speeches/s2019_1_027_089	test_149	Ainoaan käsittelyyn esitellään päiväjärjestyksen 14. asia.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_089	test_150	Käsittelyn pohjana on sivistysvaliokunnan mietintö SiVM 2/2019 vp.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_089	test_151	Nyt päätetään kannanotosta kertomuksen johdosta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_152	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_153	Esittelen sivistysvaliokunnan mietinnön, koska toimin alkukaudesta sivistysvaliokunnan puheenjohtajana.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_154	Nykyäänhän siinä on Paula Risikko, mutta tämä käsiteltiin alkukaudesta, ja Eduskunnan kirjaston kertomus käsittelee vuotta 2018.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_155	Sivistysvaliokunta korostaa, että kirjastoilla on yhteiskunnassamme aina ollut tärkeä ja monipuolinen sivistystehtävä.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_156	Kirjastojen toiminnalla edistetään väestön yhdenvertaisia mahdollisuuksia sivistykseen ja kulttuuriin sekä monipuoliseen tietoon.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_157	Julkisena tutkimuskirjastona kirjasto on Suomessa myöskin ainutlaatuinen.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_158	Kirjaston aineiston mitattavissa olevat käyttömäärät olivat vuonna 2018 edellisten vuosien tasolla, mutta sekä kirjalainojen että kävijöiden määrät ovat huippuvuosia alemmat.	5
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_159	Tämä on luonnollista, koska yhä enemmän ollaan siirrytty digitaaliseen tiedonhakuun.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_160	Tieto- ja itsepalveluyhteiskunnassa tiedon ja aineiston äärelle pääsee nykyään helposti, jolloin kirjastoon tullaan hakemaan yhä enemmän vaativaa asiantuntijuutta ja neuvontaa ongelmatilanteisiin.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_161	Kirjastossa käydään siksi takavuosia vähemmän, mutta toimeksiannot ovat entistä haastavampia.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_162	Valiokunta pitää erittäin tärkeänä, että kirjaston henkilökunnan osaamista kehitetään vastaamaan toiminta- ja tietoympäristön jatkuvaa muutosta ja että tiedostamalla keskeiset palvelutarpeet kirjasto voi jatkossakin parhaalla mahdollisella tavalla tavoittaa asiakaskuntansa.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_163	Valiokunnan saaman tiedon mukaan kirjasto on tilana pääosin esteetön.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_164	Varsinaisen esteettömyyden lisäksi on syytä painottaa myös palvelujen entistä laajempaa saavutettavuutta, jonka yhteydessä on muun muassa arvioitava verkkopalvelujen käytettävyyttä.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_165	Valiokunta pitää erittäin hyvänä kirjaston käynnistämää kirjastojärjestelmän hankintayhteistyötä muiden tieteellisten kirjastojen kanssa sekä tapahtumayhteistyötä keskustakirjasto Oodin kanssa.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_166	Kirjasto on ollut mukana eduskunnan avoimen datapalvelun kehittämisessä, ja palvelu on avattu käyttöön kesäkuussa 2018.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_167	Valiokunta pitää tärkeänä, että tämän datan hyödyntämistä kehitetään sekä eduskunnan että laajemmin koko yhteiskunnan tarpeisiin.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_168	Kertomusvuonna 2018 kirjasto oli aktiivisesti mukana eduskunnan päätöksenteon tietotukihankkeessa, jossa kartoitetaan lainsäädäntötyön tiedontarpeita ja kehitetään saadun käyttäjätiedon avulla palveluja, kuten kirjaston tietopalvelun tarjoamaa säädösvalmistelun tietotukipalvelua ja eduskunnan elektronista kirjastopalvelua.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_169	Valiokunta korostaa tutkitun tiedon merkitystä poliittisen päätöksenteon perustana ja pitää erittäin tärkeänä, että tietotukihankkeen yhteydessä kehitetään uusia tietotuotteita, joilla kirjasto voi nykyistä paremmin tarjota valmiiksi arvioitua tietoa lainsäätäjien käyttöön.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_170	Kirjaston nykyiset tietopaketit ovat jo sellaisenaan hyvä ja oikeansuuntainen alku.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_171	Sivistysvaliokunta pitää erittäin huomionarvoisena myös sitä, että kertomusvuoden aikana kirjaston veteraanikansanedustajien muistitietoarkisto nimettiin Vuoden arkistoteoksi pohjoismaisen Arkistojen päivän yhteydessä.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_172	Muistitietoarkisto on kansainvälisestikin ainutlaatuinen, ja siihen sisältyy jo vajaat 430 haastattelua.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_173	Kertomuksen sekä saamansa selvityksen perusteella sivistysvaliokunta arvioi, että kirjasto on toiminut menestyksekkäästi palvelutehtävissään ja että kirjastoa on vuonna 2018 hoidettu hyvin.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_090	test_174	Valiokunta kuuli johtaja Antti Virrankoskea Eduskunnan kirjastosta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_175	\"	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_176	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_177	Nostan kaksi asiaa tästä valiokunnan mietinnöstä esille.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_178	Molemmat ovat kiitoksia eduskunnan hienosti toimivalle kirjastolle ja samalla myöskin kehotuksia ja kannustusta jatkaa kehittämistyötä.	3
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_179	Ensinnäkin: Hienoa, että kirjaston palvelut ovat enimmäkseen esteettömiä, ja erinomaista on, että kirjastolla on halu ja tahto kehittää myös saavutettavuutta.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_180	Saavutettavuudellahan tarkoitetaan verkkopalveluita, sovelluksia ja julkaisuja sekä palvelujen saavutettavuutta, välineiden käytettävyyttä, tiedon ymmärrettävyyttä ja mahdollisuutta osallistua.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_181	Selkokielen käyttö on yksi keskeinen tekijä saavutettavuudessa, ja olen sitä mieltä, että tässä selkokielen käytössä meillä kaikilla on vielä tekemistä tässäkin talossa ja siinä olisi paljon oppimista jokaisella meistä.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_182	Toivon, että Eduskunnan kirjasto olisi omalta osaltaan myös esimerkkinä siitä, miten selkokielen käyttöä voitaisiin lisätä.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_183	Toinen huomionarvoinen asia valiokunnan mietinnössä on maininta siitä, että kirjasto on aktiivisesti mukana eduskunnan päätöksenteon tietotukihankkeessa, jossa kartoitetaan lainsäädäntötyön tiedon tarpeita ja kehitetään saadun käyttäjätiedon avulla palveluja, kuten kirjaston tietopalvelun tarjoamaa säädösvalmistelun tietotukipalvelua ja eduskunnan elektronista kirjastopalvelua.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_184	Sähköisten kirjastopalveluiden kehittämisen johtoajatuksena on saattaa entistä paremmin tietoa ja aineistoa päätöksentekijöiden tarpeisiin oikea-aikaisesti ja helposti käytettävässä muodossa.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_185	Olen valiokunnan tavoin pitkään korostanut päätöksenteon perustana tutkittua tietoa, ja siksi on tärkeää, että tietotukihankkeen yhteydessä kehitetään uusia tietotuotteita, joilla kirjasto voi nykyistäkin paremmin tarjota valmiiksi arvioitua tietoa lainsäätäjien käyttöön.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_186	Kirjaston nykyiset tietopaketit ovat jo sellaisenaan hyvä ja oikeansuuntainen alku, ja tässä asiassa on viime vuosien aikana menty erittäin paljon eteenpäin ja ihan jopa isoin harppauksin.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_187	Täällä eduskunnassa tulisi korostaa nykyistä enemmän näyttöön perustuvan päätöksenteon merkitystä lainsäädäntötyössä, ja meidän kansanedustajien tulisi vaatia tutkimusnäytön hyödyntämistä.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_188	Mutta toisaalta jokaiselle kansanedustajalle pitäisi tehdä myöskin mahdollisimman helpoksi saada käyttöönsä kustakin käsiteltävästä asiasta pätevä ja uusi tutkimustieto.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_189	Tämän mahdollistamiseksi tarvitsemme tahon, joka tekee luotettavasta tutkimustiedosta myös meta-analyyseja eli kokoaa tiedon yhteen helposti luettavaan muotoon.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_190	Tämä on tietysti iso asia, mutta toivoisin Eduskunnan kirjastolta löytyvän voimavaroja myös tämänkaltaiseen kehittämistyöhön jatkossa.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_091	test_191	— Kiitos.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_192	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_193	Haluan itsekin esittää lämpimät kiitokset kirjaston hallitukselle ja kirjaston henkilökunnalle ylipäätään hyvin tehdystä työstä ja myöskin tästä kertomuksesta, joka hyvin avaa Eduskunnan kirjaston merkitystä.	3
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_194	Tämä merkitys ei ole pelkästään meille eduskunnalle vaan koko kansalle.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_195	Niin kuin tuossa kertomuksessa todetaan, esimerkiksi tutkijat ja toimittajat käyttävät näitä kirjaston palveluita, ja tällä tavalla kirjaston yhteiskunnallinen tehtävä on hyvin merkittävä.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_196	On hienoa, että kirjastolla on tällainen linja, että pyritään tiedon avoimuuteen ja saatavuuteen ja siihen, että tietoa ja nimenomaan faktoja olisi mahdollisimman helposti saatavilla.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_197	Se on koko meidän yhteiskunnan kannalta erittäin tärkeää, koska, niin kuin olemme varmastikin kaikki kuulleet, monesti yhteiskunnallisessa keskustelussakin saatetaan esittää tällaisia heittoja, sellaisia ehkä perusteettomiakin mielikuvia, ja meillä pitäisi kuitenkin aina päätöksenteossa pohjata faktoihin ja tuoda niitä esille, ja näiden faktojen ja faktapohjaisen keskustelun edistämisessä Eduskunnan kirjastolla onkin suuri ja tärkeä tehtävä.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_198	Tätä kirjaston kehittämistä kannattaa jatkaa, ja on tärkeää, että kirjastolla on riittävät henkilöresurssit siihen, että tätä tärkeää työtä pystytään jatkamaan.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_199	Myös se on tärkeää, että jokaisella kansalaisella — vaikkei olisikaan tutkija tai toimittaja — on tietoa saatavilla ja jokainen myöskin tietää, mistä sitä tietoa sitten lähteä hakemaan.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_200	Jos ajattelemme meidän lapsia ja nuoria, niin jos he haluavat jostakin saada tietoa, niin he ottavat käteensä älypuhelimen ja alkavat siitä sitten etsiä, ja siksi on tärkeää, että näitä digitaalisia palveluita kehitetään, niin kuin tässä kirjaston kertomuksessa todetaankin.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_201	Toivoisi, että me yhteiskunnalliset päättäjät mutta myös kaikki kansalaiset olisimme sillä tavalla lapsille ja nuorille esimerkkeinä kirjaston käyttäjinä, että käyttäisimme kirjastoa ja puhuisimme siitä ja toisimme sitä esille.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_202	Esimerkiksi lapselle aivan mainio ja edullinen lahja on se, että ottaa lapsen mukaan kirjastoon ja viettää vaikkapa lukuhetken lapsen kanssa kotona.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_092	test_203	Sillä tavalla me näitä uusia sukupolvia sitten jo opetamme käyttämään kirjastoa ja edistämme sitä, että myöskin sitten tämä meidän yhteiskunnallinen keskustelumme perustuisi tutkittuun ja punnittuun tietoon eikä mielikuviin.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_204	Arvoisa herra puhemies!	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_205	Kiitos edustaja Laiholle esittelystä ja Mäkisalo-Ropposelle ja Aittakummulle tähän mennessä puheenvuoroista.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_206	Lukutaito on todellakin tärkeä asia, ja se on yksi kallisarvoisimmista lahjoista, mitä vanhemmat voivat lapselleen antaa, että he opettavat kirjojen käyttöön ja lukemiseen ja kirjastojen käyttöön.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_207	Kävijämääristä tässä on puhuttu.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_208	Se on yleinen trendi, että kirjastojen kävijämäärät ovat pienen paineen alla.	5
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_209	Toisaalta sitten taas, niin kuin tässä on todettu, tämä digitaalisuus on se toinen puoli, ja siitä tullaan siihen, mikä sen käynnin tai digilainauksen merkitys on, tullaan vaikuttavuuteen, ja sen mittaaminen on hankalampaa.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_210	Olettaisin, että vaikuttavuus on aika iso.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_211	Esimerkiksi tietopalvelun käyttö: 1 400 käyttökertaa.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_212	Osa näistä on erittäin laajoja, voi edellyttää useammalta asiantuntijalta useamman päivän työpanosta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_093	test_213	Siinä ollaan juuri sen asian ääressä, minkä edustajat ovat tässä maininneet, että oikeata tutkittua tietoa pitää olla saatavilla eikä vain tämmöistä klikkijournalismia.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_214	Arvoisa eduskunnan puhemies!	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_215	Eduskunnan kirjaston kokoelma saa vuodesta toiseen kiitosta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_216	Kirjaston pitkä historia tällaisena oman alansa keskuskirjastona näkyy ja asettaa jatkoonkin paljon odotuksia.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_217	Tutkimuskirjastona Eduskunnan kirjasto on alallaan ainutlaatuinen, ja aivan kuten edustaja Aittakumpu totesi, niin politiikan tutkijoiden lisäksi myös toimittajat käyttävät kirjaston aineisto‑, sisältö‑ ja asiantuntijapalveluita.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_218	Tämä ilman muuta edesauttaa laadukasta ja faktapohjaista poliittista keskustelua ja tuo esiin myös kirjaston vaikuttavuutta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_219	Kertomusvuonna Eduskunnan kirjasto oli aktiivisesti mukana kanslian strategian mukaisessa palveluiden kehittämistyössä ja myös käynnistämässä tieto‑ ja viestintäosaston vastuulla olevaa tietotukihanketta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_220	Kirjaston vuoden kohokohta oli hieno, siis veteraanikansanedustajien muistotietoarkiston nimeäminen vuoden arkistoteoksi pohjoismaisen Arkistojen päivän yhteydessä.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_221	Myös perusteet olivat jyhkeät — kansainvälisesti ainutlaatuinen, laaja, edustava ja näin arvokas lisä ilman muuta politiikan historiaan ja ylipäätään politiikan tutkimukselle.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_222	Kirjasto on edennyt vuosille 17—20 asetetun kirjaston palvelustrategian mukaisilla painopistealueilla erinomaisesti.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_223	Kirjastot ylipäätään sekä täällä eduskunnassa että kaikkialla ovat, kuten täällä on todettu, kansalaisten peruspalvelu.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_224	Se on peruspalvelua aivan kuten vaikkapa opetus tai terveydenhoito ovat.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_225	Me kaikki varmasti asioimme kirjastossa, lainaamme kenties kasan kirjoja emmekä ehkä mieti juuri sen enempää, miten tällainen kaikki on ylipäätään mahdollista.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_226	Me olemme kenties tottuneet siihen, että saatavilla on kirjasto, josta voimme halutessamme hakea sitä, mitä tarvitsemme.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_227	Kirjastot ovat tärkeä osa yhteisöämme, ja me suomalaiset kyllä arvostamme kirjastolaitoksemme korkealle.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_228	Kirjan päätyminen sinulle tai minulle ei tietysti olisi mahdollista ilman asiantuntevaa ja osaavaa henkilökuntaa niin täällä eduskunnassa kuin kaikkialla kirjastoissa.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_229	Kirjastoissa tehtävällä työllä taataan, että kansalaisilla pysyvät ne kulttuurin peruspalvelut, jotka tekevät jokapäiväisestä arjestamme hiukan paremman, ovat osa perusopetustamme sekä ennaltaehkäisevät myös monia sosiaalisia ongelmia.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_094	test_230	Kirjaston ja kirjastojen merkitys ei ole siis pelkästään kirjojen lainaaminen.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_231	Kirjastojen merkitys tällaisen kulttuurisen pääoman synnyttäjänä ja alueellisen sivistyksen ja perinteen vaalijana on kiistaton.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_232	Arvoisa puhemies!	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_233	Kuten tuossa sivistysvaliokunnan mietinnössä korostetaan, kirjastoilla on yhteiskunnassamme aina tärkeä ja monipuolinen sivistystehtävä ja kirjastojen toiminnalla edistetään väestön yhdenvertaisia mahdollisuuksia sivistykseen, kulttuuriin ja monipuoliseen tietoon.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_234	Me voimme olla ylpeitä Eduskunnan kirjastosta, joka kuuluu siis eduskunnan kansliaan ja palvelee eduskuntaa toimialaansa kuuluvin tavoin ja toimii eduskunnan keskusarkistona ja julkisena oikeudellista tietoa, yhteiskuntatietoa ja eduskuntatietoa välittävänä keskuskirjastona.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_235	Voi sanoa, että tämä meidän kirjastomme todella on ainutlaatuinen.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_236	On totta, että siellä ovat jonkin verran lainaustarpeet vähentyneet ja että siellä ei niin paljon käyntejä ole, mutta niin kuin tässä todetaan, paljon on kuitenkin toimeksiantoja.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_237	Mielestäni on hienoa, että kansanedustajat ovat oppineet käyttämään kirjastoa hyvin monipuolisesti ja samoin meidän virkamiehet.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_238	Sieltähän saa hyvin paljon apua.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_239	Kiitän myös Eduskunnan kirjaston henkilöstöä siitä palvelualttiudesta ja siitä osaamisesta, mikä heillä on: ei oikeastaan mikään kysymys jää vastaamatta, kun heiltä jotain kysyy.	3
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_240	On erittäin tärkeää, että siellä on kuitenkin samalla uudistunut tämä kirjastotoiminta, ja siinä mielessä se on todella hienoa.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_241	Elikkä kiitos edustaja Laiholle, joka toimi silloin valiokunnan puheenjohtajana: tämä mietintö on erinomainen.	3
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_242	Sitten yleensä kirjastojen tehtävästä.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_243	Jos ajatellaan, niin kyllähän se on innovatiivinen asia.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_244	Me olemme aikanamme keränneet sata tällaista sosiaalista innovaatiota yksiin kansiin, ja voi sanoa, että kirjasto on kyllä yksi tällainen sivistyksen innovaatio.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_245	Meillä on pystytty säilyttämään maksuton kirjasto, ja kirjasto siitä huolimatta, että meillä ovat digitalisoituneet nämä materiaalit ja paljon luetaan pädiltä, on säilyttänyt oman paikkansa Suomessa ja sivistyksen kehtona, voisi sanoa.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_246	Kirjastot ovat pystyneet pitämään yllä myöskin uusia tuotteita.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_247	Siellä on erilaista urheiluvälinelainausta ynnä muuta.	0
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_248	Voi sanoa, että kirjastot ovat kyllä oikeastaan tällaisia sivistyksen kehtoja.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_249	Ja täytyy kyllä sanoa myöskin se, että kun minä olen itse pieneltä paikkakunnalta kotoisin, niin en itse olisi koskaan pystynyt opiskelemaan niin pitkälle kuin olen, jos ei olisi ollut kirjastoja, koska ei millään olisi ollut rahaa ostaa niitä kaikkia kirjoja, mitä esimerkiksi tohtorintutkintoon tarvitaan.	2
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_250	Elikkä on erinomaisen hienoa, että meillä on kaikille mahdollisuus käyttää kirjastoja.	1
+http://ldf.fi/semparl/speeches/s2019_1_027_095	test_251	Kiitos kirjastoista.	0
